@@ -80,7 +80,7 @@ OSS Gateについての説明は、[OSS Gateへようこそ！]({% post_url 2015
 これまでと同じ資料を使っていましたが、資料をベースにしつつも随時説明を追加したり省略したりしました。進行役をできる人が増えるようにするためには、資料を更新し、須藤以外でも進行しやすいものにする必要があります。これは次回のワークショップでの課題です。
 
 <div class="rabbit-slide">
-  <iframe src="http://slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-overview/viewer.html"
+  <iframe src="//slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-overview/viewer.html"
           width="640" height="524"
           frameborder="0"
           marginwidth="0"
@@ -89,7 +89,7 @@ OSS Gateについての説明は、[OSS Gateへようこそ！]({% post_url 2015
           style="border: 1px solid #ccc; border-width: 1px 1px 0; margin-bottom: 5px"
           allowfullscreen> </iframe>
   <div style="margin-bottom: 5px">
-    <a href="http://slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-overview/" title="OSS Gateワークショップ（チュートリアル） - OSS開発手順">OSS Gateワークショップ（チュートリアル） - OSS開発手順</a>
+    <a href="//slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-overview/" title="OSS Gateワークショップ（チュートリアル） - OSS開発手順">OSS Gateワークショップ（チュートリアル） - OSS開発手順</a>
   </div>
 </div>
 
