@@ -170,7 +170,7 @@ OSS開発手順の説明が終わったら、選んだOSSを実際に動かし�
 午後からはフィードバックの時間です。以下の資料を使いました。
 
 <div class="rabbit-slide">
-  <iframe src="http://slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-feedback/viewer.html"
+  <iframe src="//slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-feedback/viewer.html"
           width="640" height="524"
           frameborder="0"
           marginwidth="0"
@@ -179,7 +179,7 @@ OSS開発手順の説明が終わったら、選んだOSSを実際に動かし�
           style="border: 1px solid #ccc; border-width: 1px 1px 0; margin-bottom: 5px"
           allowfullscreen> </iframe>
   <div style="margin-bottom: 5px">
-    <a href="http://slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-feedback/" title="OSS Gateワークショップ（チュートリアル） - フィードバック">OSS Gateワークショップ（チュートリアル） - フィードバック</a>
+    <a href="//slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-feedback/" title="OSS Gateワークショップ（チュートリアル） - フィードバック">OSS Gateワークショップ（チュートリアル） - フィードバック</a>
   </div>
 </div>
 
@@ -251,7 +251,7 @@ GitHubの報告方法には主に2種類あって、報告だけ（issue）の�
 さいごに、今日やったことをまとめました。資料は以下です。
 
 <div class="rabbit-slide">
-  <iframe src="http://slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-conclusion/viewer.html"
+  <iframe src="//slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-conclusion/viewer.html"
           width="640" height="524"
           frameborder="0"
           marginwidth="0"
@@ -260,7 +260,7 @@ GitHubの報告方法には主に2種類あって、報告だけ（issue）の�
           style="border: 1px solid #ccc; border-width: 1px 1px 0; margin-bottom: 5px"
           allowfullscreen> </iframe>
   <div style="margin-bottom: 5px">
-    <a href="http://slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-conclusion/" title="OSS Gateワークショップ（チュートリアル） - まとめ">OSS Gateワークショップ（チュートリアル） - まとめ</a>
+    <a href="//slide.rabbit-shocker.org/authors/kou/oss-gate-workshop-tutorial-conclusion/" title="OSS Gateワークショップ（チュートリアル） - まとめ">OSS Gateワークショップ（チュートリアル） - まとめ</a>
   </div>
 </div>
 
