@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: OSS Gateについて
 permalink: /about/
 ---
 
