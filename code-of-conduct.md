@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code of Conduct（行動規範）
+title: 行動規範
 permalink: /code-of-conduct/
 ---
 
