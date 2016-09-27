@@ -112,5 +112,5 @@ OSS Gateが盛り上がり、新たな開発者が増えると共に、開発プ
 
 - [OSS Gate - Doorkeeper](https://OSS-Gate.doorkeeper.jp/)
 - [OSS Gate - GitHub](https://github.com/OSS-Gate)
-- [OSS Gate - Gitter](https://gitter.im/oss-gate/rooms)
+- [OSS Gate - Gitter](https://gitter.im/orgs/oss-gate/rooms)
 - [Rubyist Magazine - Rubyist Hotlinks 【第 36 回】 須藤功平さん](http://magazine.rubyist.net/?0053-Hotlinks)
