@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "オープンソース開発プロジェクトの参加者になるワークショップ「OSS Gate」"
-date:   2016-06-24 18:00:00 +0900
+date:   2016-09-24 18:00:00 +0900
 categories: report workshop
 ---
 
