@@ -7,10 +7,10 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
           {% if site.email %}
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {% endif %}
+		  <li><a href="{{ site.baseurl }}/about/">OSS Gateについて</a></li>
           <li><a href="{{ site.baseurl }}/code-of-conduct/">行動規範</a></li>
         </ul>
       </div>
@@ -19,20 +19,25 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+              {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          <li><a href="https://oss-gate.doorkeeper.jp/">Doorkeeper</a></li>
+          <li><a href="https://gitter.im/oss-gate/home/">Gitter</a></li>
+		  <li>-----</li>
 
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSSを購読</a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+		  <a class="twitter-timeline"  href="https://twitter.com/hashtag/oss_gate" data-widget-id="812700263521755137">#oss_gate のツイート</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
     </div>
 
