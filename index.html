@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">記事一覧</h1>
+  <h1 class="page-heading">記事リスト</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -17,7 +17,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>を購読</p>
-
 </div>
