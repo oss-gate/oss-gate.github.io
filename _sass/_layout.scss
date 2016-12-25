@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid #008D40;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -17,6 +17,10 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+
+	background-image: url('../images/logo_s.png');
+	background-repeat:no-repeat;
+	padding:0 0 0 26px;
 
     &,
     &:visited {
