@@ -2,8 +2,6 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -36,7 +34,10 @@
       </div>
 
       <div class="footer-col footer-col-3">
-		  <a class="twitter-timeline"  href="https://twitter.com/hashtag/oss_gate" data-widget-id="812700263521755137">#oss_gate のツイート</a>
+		<ul class="social-media-list">
+		  <li>{% include icon-twitter.html %}<a href="https://twitter.com/hashtag/oss_gate?src=hash">#oss_gate</a></li>
+		</ul>
+        <a class="twitter-timeline"  href="https://twitter.com/hashtag/oss_gate" data-widget-id="812700263521755137" data-chrome="noheader nofooter"  data-width=”300″>#oss_gate のツイート</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
     </div>
