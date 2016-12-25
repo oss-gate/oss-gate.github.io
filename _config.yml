@@ -2,9 +2,9 @@
 title: OSS Gate
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  「OSS Gate」とはOSS開発に参加していない人が参加する人に変わる「入り口」を提供する取り組みです。
-  OSS開発に未参加の人向けに参加方法を伝える場を継続的に提供することにより、OSS開発に参加する人を増やすことができるのではないか。
-  それを実現することが「OSS Gate」という取り組みの目的です。
+ 「OSS Gate」は、OSS開発に参加する「入り口」を提供する取り組みです。
+  
+  OSS開発に未参加の人に向けて、参加方法を伝える場を継続的に提供することで、OSS開発に参加する人を増やしていく。それが「OSS Gate」の目的です。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://oss-gate.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
