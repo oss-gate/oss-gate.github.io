@@ -1,19 +1,19 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">記事リスト</h1>
+  <h2 class="page-heading">記事リスト</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+	    </h3>
       </li>
     {% endfor %}
   </ul>
