@@ -10,3 +10,7 @@ Github pages（jekyll）を使用。markdownファイルとhtmlファイルを�
 テーマには、defaultのminimaを使用。https://github.com/jekyll/minima
 
 cssをsassで少し足している。
+
+## ICONについて
+
+Font Awesome licensed under SIL OFL 1.1 http://fontawesome.io/
