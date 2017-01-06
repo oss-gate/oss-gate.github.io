@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "記事一覧"
+permalink: /posts/
 date:   2015-12-16 15:45:47 +0900
 categories: announce update
 ---
