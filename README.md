@@ -5,7 +5,7 @@ OSS GateのWebサイトのリポジトリ。
 https://oss-gate.github.io/
 
 ## 仕組み
-Github pages（jekyll）を使用。markdownファイルとhtmlファイルを編集して、リポジトリにアップすると、githubがWebページに変換してくれる。
+GitHub pages（jekyll）を使用。markdownファイルとhtmlファイルを編集して、リポジトリにアップすると、GitHubがWebページに変換してくれる。
 
 テーマには、defaultのminimaを使用。https://github.com/jekyll/minima
 
