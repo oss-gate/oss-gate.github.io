@@ -3,6 +3,14 @@ layout: page
 title:  ワークショップレポート
 ---
 
+## [2017-01-28開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/50539)
+
+  * [OSS Gate 東京ワークショップにメンターとして参加してきた。 #oss_gate](https://satoryu-diary.herokuapp.com/20170128.html)
+  * [OSS Gate東京ワークショップ2017–01–28に参加しました – Kohei Kadowaki (@kadoppe) – Medium](https://medium.com/@kadoppe/302ed3762c6c)
+  * [OSS Gateに参加してきた - 楽しいだけで十分です](http://yinm.hatenadiary.jp/entry/2017/01/28/225036)
+  * [OSS Gate東京ワークショップ2017-01-28 - koicの日記](http://koic.hatenablog.com/entry/2017/01/28/000000)
+  * [OSS Gate東京ワークショップ2017-01-28を開催 #oss_gate - ククログ(2017-01-30)](http://www.clear-code.com/blog/2017/1/30.html)
+
 ## [2016-11-26開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/50539)
 
   * [OSS Gateワークショップ2016-11-26を開催 #oss_gate - ククログ(2016-11-28)](http://www.clear-code.com/blog/2016/11/28.html)
