@@ -41,7 +41,7 @@ OSS Gate札幌キックオフの会場を提供しています。
 
 TODO（会社説明とか宣伝文句）
 
-## 株式会社SEプラス #{seplus}
+## 株式会社SEプラス {#seplus}
 
 [株式会社SEプラス](https://www.seplus.jp/) TODO：ロゴ
 
