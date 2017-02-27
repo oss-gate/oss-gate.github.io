@@ -3,6 +3,17 @@ layout: page
 title:  ワークショップレポート
 ---
 
+## [OSS Gate大阪ワークショップ2017-02-25](https://oss-gate.doorkeeper.jp/events/56141)
+
+  * [reserve-docs/slide/first-contact-oss-gate at master · masayuki14/reserve-docs](https://github.com/masayuki14/reserve-docs/tree/master/slide/first-contact-oss-gate)
+  * [OSS Gate大阪ワークショップ2017-02-25に参加した - @znz blog](http://blog.n-z.jp/blog/2017-02-25-oss-gate-workshop.html)
+
+## [OSS Gate東京ミートアップ2017-02-20](https://oss-gate.doorkeeper.jp/events/56845)
+
+  * [OSS Gate東京ミートアップ2017-02-20 - koicの日記](http://koic.hatenablog.com/entry/2017/02/20/000000)
+  * [OSS Gate東京ミートアップにメンターとして参加しました - 何でも屋エンジニアのブログ](http://biibiebisuke.hatenablog.com/entry/2017/02/21/002100)
+  * [OSS Gate東京ミートアップに参加しました - 横あるき](https://kuno.kdns.info/post/20170223034144-oss-gate-2017-02-20-tokyo-meetup)
+
 ## [2017-01-28開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/52881)
 
   * [OSS Gate 東京ワークショップにメンターとして参加してきた。 #oss_gate](https://satoryu-diary.herokuapp.com/20170128.html)
