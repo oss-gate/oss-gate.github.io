@@ -9,15 +9,15 @@ permalink: /about/
 
 ## 活動内容
 
-- ワークショップ：OSS開発にまだ参加していない人が、OSS開発の入り口を体験するイベントです。OSS未参加者のビギナーだけでなく、体験を支援するメンターも募集しています。
+- ワークショップ：OSS開発にまだ参加していない人が、OSS開発の入り口を体験するイベントです。OSS未参加者のビギナーだけでなく、体験を支援するビギナーも募集しています。
 
 
 ## 参加方法
 
 - ワークショップの様子や内容を知りたい：[ワークショップレポート]({{ site.baseurl }}/workshop/report.html)を読んでみてください。
 - ワークショップにビギナーとして参加したい：[Doorkeeper](https://oss-gate.doorkeeper.jp/)でビギナーとして申し込んでください。
-- ワークショップをメンターとして手伝いたい：[Doorkeeper](https://oss-gate.doorkeeper.jp/)でメンターとして申し込んでください。
-- OSS Gateの活動を手伝いたい、メンター以外の方法で支援したい場合：[Gitter](https://gitter.im/oss-gate/general?source=orgpage)で聞いてみてください。
+- ワークショップをビギナーとして手伝いたい：[Doorkeeper](https://oss-gate.doorkeeper.jp/)でビギナーとして申し込んでください。
+- OSS Gateの活動を手伝いたい、ビギナー以外の方法で支援したい場合：[Gitter](https://gitter.im/oss-gate/general?source=orgpage)で聞いてみてください。
 
 
 ## OSS Gateを始めた理由
