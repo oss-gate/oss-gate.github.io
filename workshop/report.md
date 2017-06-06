@@ -22,18 +22,15 @@ title:  ワークショップレポート
   * [OSS Gate東京ワークショップ2017-03-25 - koicの日記](http://koic.hatenablog.com/entry/oss-gate-tokyo-workshop-2017-03-25)
 
 ## [OSS Gate大阪ワークショップ2017-02-25](https://oss-gate.doorkeeper.jp/events/56141)
-
   * [reserve-docs/slide/first-contact-oss-gate at master · masayuki14/reserve-docs](https://github.com/masayuki14/reserve-docs/tree/master/slide/first-contact-oss-gate)
   * [OSS Gate大阪ワークショップ2017-02-25に参加した - @znz blog](http://blog.n-z.jp/blog/2017-02-25-oss-gate-workshop.html)
 
 ## [OSS Gate東京ミートアップ2017-02-20](https://oss-gate.doorkeeper.jp/events/56845)
-
   * [OSS Gate東京ミートアップ2017-02-20 - koicの日記](http://koic.hatenablog.com/entry/2017/02/20/000000)
   * [OSS Gate東京ミートアップにメンターとして参加しました - 何でも屋エンジニアのブログ](http://biibiebisuke.hatenablog.com/entry/2017/02/21/002100)
   * [OSS Gate東京ミートアップに参加しました - 横あるき](https://kuno.kdns.info/post/20170223034144-oss-gate-2017-02-20-tokyo-meetup)
 
-## [2017-01-28開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/52881)
-
+## [OSS Gate東京ワークショップ2017-01-28](https://oss-gate.doorkeeper.jp/events/52881)
   * [OSS Gate 東京ワークショップにメンターとして参加してきた。 #oss_gate](https://satoryu-diary.herokuapp.com/20170128.html)
   * [OSS Gate東京ワークショップ2017–01–28に参加しました – Kohei Kadowaki (@kadoppe) – Medium](https://medium.com/@kadoppe/302ed3762c6c)
   * [OSS Gateに参加してきた - 楽しいだけで十分です](http://yinm.hatenadiary.jp/entry/2017/01/28/225036)
@@ -43,19 +40,16 @@ title:  ワークショップレポート
 ## [OSS Gate東京ミートアップ2017-01-16](https://oss-gate.doorkeeper.jp/events/55608)
   * [OSS Gateに参加した - color_boxの復習帳](http://colorbox.hateblo.jp/entry/2017/01/18/000018)
 
-## [2016-11-26開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/50539)
-
+## [OSS Gate東京ワークショップ2016-11-26](https://oss-gate.doorkeeper.jp/events/50539)
   * [OSS Gateワークショップ2016-11-26を開催 #oss_gate - ククログ(2016-11-28)](http://www.clear-code.com/blog/2016/11/28.html)
   * [OSS Gateワークショップ2016-11-26 - koicの日記](http://koic.hatenablog.com/entry/2016/11/26/000000)
   * [OSS Gateワークショップ#6に進行役として参加してきた - ただのにっき(2016-11-26)](http://sho.tdiary.net/20161126.html#p01)
 
-## [2016-09-24開催のワークショップ（札幌）](https://oss-gate.doorkeeper.jp/events/50661)
-
+## [OSS Gate札幌ワークショップ2016-09-24](https://oss-gate.doorkeeper.jp/events/50661)
   * [OSS Gateワークショップin札幌2016-09-24にビギナーとして参加してきました #oss_gate - @sakag1975 blog](http://sakag1975.hatenablog.com/entry/2016/09/26/052914)
   * [OSS Gateワークショップin札幌2016-09-24に参加しました – 寺子屋未満](http://terakonya.sarm.net/wordpress/2016/09/28/oss-gate-20160924/)
 
-## [2016-09-24開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/46275)
-
+## [OSS Gate東京ワークショップ2016-09-24](https://oss-gate.doorkeeper.jp/events/46275)
   * [OSS Gate ワークショップにメンターとして参加してきた。 #oss_gate - Satoryu's Diary(2016-09-24)](https://satoryu-diary.herokuapp.com/20160924.html#p01)
   * [OSS Gateワークショップに参加しました。](http://blog.youchan.org/2016-09-26)
   * [OSSGateワークショップに参加した感想](http://blog.zitaku.net/2016/09/26/ossgate/)
@@ -64,8 +58,7 @@ title:  ワークショップレポート
   * [オープンソース開発プロジェクトの参加者になるワークショップ「OSS Gateワークショップ」](http://oss-gate.github.io/report/workshop/2016/09/24/workshop-report-tokyo.html)
   * [前回初メンターだった私がOSS Gateワークショップでサポートメンターをしてみました - 横あるき](https://kuno.kdns.info/post/20161125182047-try-support-mentor-oss-gate)
 
-## [2016-07-30開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/42159)
-
+## [OSS Gate東京ワークショップ2016-07-30](https://oss-gate.doorkeeper.jp/events/42159)
   * [OSS Gateワークショップ(2016/07/30開催)に参加した感想 - ひとりしずかに。](http://kenhys.hatenablog.jp/entry/2016/07/30/233901)
   * [mtsmfm blog - OSS Gate でメンター参加してました](http://mtsmfm.github.io/2016/07/31/oss-gate.html)
   * [OSS Gateワークショップ#4にメンターとして参加してきた - ただのにっき(2016-07-30)](http://sho.tdiary.net/20160730.html#p01)
@@ -76,20 +69,17 @@ title:  ワークショップレポート
 
 ## [OSS Gate in Speee 2016-06-11](http://tech.speee.jp/entry/2016/06/24/185427)
 
-## [2016-05-28開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/38550)
-
+## [OSS Gate東京ワークショップ2016-05-28](https://oss-gate.doorkeeper.jp/events/38550)
   * [OSS Gate ワークショップにメンターとしてちょっとだけ参加した。 #oss_gate - Satoryu's Diary(2016-05-28)](https://satoryu-diary.herokuapp.com/20160528.html#p01)
 
-## [2016-03-26開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/38549)
-
+## [OSS Gate東京ワークショップ2016-03-26](https://oss-gate.doorkeeper.jp/events/38549)
   * [OSS Gateワークショップ2016-03-26を開催 #oss_gate - ククログ(2016-03-30)](http://www.clear-code.com/blog/2016/3/30.html)
   * [OSS Gateワークショップ#2にメンターとして参加してきた - ただのにっき(2016-03-26)](http://sho.tdiary.net/20160326.html)
   * [第2回OSS Gate にメンターとして参加した - 自己言及器官](http://tsu-root.hateblo.jp/entry/2016/04/04/235045)
   * [オープンソース入門実践 OSS Gateワークショップ \| 平井インターネット研究所](http://hirai.bucyou.net/oss-gate/)
   * [OSS Gateワークショップ 3/26 にメンターとして参加した #oss_gate - seratch's weblog in Japanese](http://seratch.hatenablog.jp/entry/2016/04/09/232434)
 
-## [2016-01-30開催のワークショップ（東京）](https://oss-gate.doorkeeper.jp/events/36359)
-
+## [OSS Gate東京ワークショップ2016-01-30](https://oss-gate.doorkeeper.jp/events/36359)
   * [OSS Gate ワークショップにメンターとして参加した。 #oss_gate - Satoryu's Diary(2016-01-30)](http://satoryu-diary.herokuapp.com/20160130.html#p01)
   * [OSS Gateのワークショップに参加してきました - 横あるき](https://kuno.kdns.info/post/20160203150733-impression-oss-gate)
   * [OSS Gateワークショップにメンターとして参加してきた - ただのにっき(2016-01-30)](http://sho.tdiary.net/20160130.html#p01)
