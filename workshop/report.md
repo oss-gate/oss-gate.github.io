@@ -3,6 +3,12 @@ layout: page
 title:  ワークショップレポート
 ---
 
+## [OSS Gate東京ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59202)
+  * [OSS Gate東京ワークショップ#9にサポーターとして参加してきた - ただのにっき(2017-05-27)](http://sho.tdiary.net/20170527.html#p01)
+
+## [OSS Gate東京ワークショップ2017-03-25](https://oss-gate.doorkeeper.jp/events/57049)
+  * [OSS Gate東京ワークショップ#8にサポートメンターとして参加してきた - ただのにっき(2017-03-25)](http://sho.tdiary.net/20170325.html#p01)
+
 ## [OSS Gate大阪ワークショップ2017-02-25](https://oss-gate.doorkeeper.jp/events/56141)
 
   * [reserve-docs/slide/first-contact-oss-gate at master · masayuki14/reserve-docs](https://github.com/masayuki14/reserve-docs/tree/master/slide/first-contact-oss-gate)
