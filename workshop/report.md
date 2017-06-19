@@ -11,6 +11,7 @@ title:  ワークショップレポート
 
 ## [OSS Gate大阪ワークショップ2017-04-22](https://oss-gate.doorkeeper.jp/events/58579)
   * [OSS Gate 大阪ワークショップに参加しました ｜ Developers.IO](http://dev.classmethod.jp/study_meeting/event-report-oss-gate-osaka/)
+  * [OSS Gate大阪ワークショップ2017-04-22に参加した - @znz blog](http://blog.n-z.jp/blog/2017-04-22-oss-gate-workshop.html)
 
 ## [OSS Gate東京ミートアップ2017-04-13](https://oss-gate.doorkeeper.jp/events/59418)
   * [OSS Gate東京ミートアップ2017-04-13 - koicの日記](http://koic.hatenablog.com/entry/oss-gate-tokyo-meetup-2017-04-13)
