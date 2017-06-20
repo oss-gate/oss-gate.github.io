@@ -3,6 +3,8 @@ layout: page
 title:  ワークショップレポート
 ---
 
+OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
+
 ## [OSS Gate東京ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59202)
   * [OSS Gate東京ワークショップ#9にサポーターとして参加してきた - ただのにっき(2017-05-27)](http://sho.tdiary.net/20170527.html#p01)
 
