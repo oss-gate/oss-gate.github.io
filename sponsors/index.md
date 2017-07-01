@@ -3,7 +3,7 @@ layout: page
 title: スポンサー
 ---
 
-OSS Gateに協力しているみなさんです。ありがとうございます。
+OSS Gateに協力しているみなさん（あいうえお順）です。ありがとうございます。
 
 OSS Gateはみなさんの協力を待っています。協力の方法は[スポンサー募集](wanted.html)を見てください。
 
@@ -82,6 +82,16 @@ TODO（会社説明とか宣伝文句）
 OSS Gate東京ワークショップの会場を提供しています。
 
 - TODO（会場提供してくれたワークショップのイベントページ）
+
+TODO（会社説明とか宣伝文句）
+
+## ピクシブ株式会社 {#pixiv}
+
+[ピクシブ株式会社](https://www.pixiv.co.jp/) TODO：ロゴ
+
+OSS Gate東京ワークショップを開催しています。
+
+- [OSS Gate東京ワークショップ for Mastodon in ピクシブ 2017-06-29](https://oss-gate.doorkeeper.jp/events/61807)
 
 TODO（会社説明とか宣伝文句）
 
