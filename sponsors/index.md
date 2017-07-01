@@ -94,7 +94,7 @@ OSSの開発支援・OSSのサポート・企業向けOSS Gateワークショッ
 
 ## コデアル株式会社 {#codeal}
 
-[コデアル株式会社](https://www.codeal.work/)
+[コデアル株式会社](https://www.codeal.work/) TODO：ロゴ
 
 OSS Gate東京ワークショップの会場を提供しています。
 
