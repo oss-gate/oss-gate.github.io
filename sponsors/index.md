@@ -58,15 +58,13 @@ TODO（会社説明とか宣伝文句）
 
 ## 株式会社SEプラス {#seplus}
 
-[![株式会社SEプラス](logos/seplus_logo.png)](https://www.seplus.jp/)
+[株式会社SEプラス](https://www.seplus.jp/) TODO：ロゴ
 
 OSS Gate東京キックオフ・ふりかえりの会場を提供しています。
 
-- [OSS Gate東京ふりかえり2017-01 ~ 2017-04](https://oss-gate.doorkeeper.jp/events/59283)
-- [OSS Gate ふりかえり 2016](https://oss-gate.doorkeeper.jp/events/54119)
-- [OSS Gate を立ち上げよう](https://oss-gate.doorkeeper.jp/events/33335)
+- TODO（会場提供してくれたキックオフ・ふりかえりのイベントページ）
 
-2015年に学生向けに[OSS Hack Weekend](https://www.seplus.jp/sezemi/ohw/)というイベントを開催しました。そのイベントがきっかけで OSS Gateを応援しています。現在はPHP/Laravelを中心としたOSSを利用して、エンジニア向け研修サービスを開発しています。
+TODO（会社説明とか宣伝文句）
 
 ## 関西Ruby会議2017実行委員会 {#kanrk2017}
 
