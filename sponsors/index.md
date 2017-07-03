@@ -21,21 +21,30 @@ TODO（会社説明とか宣伝文句）
 
 ## 株式会社永和システムマネジメント {#esm}
 
-[株式会社永和システムマネジメント](http://www.esm.co.jp/) TODO：ロゴ
+[![株式会社永和システムマネジメント](logos/esminc.jpg)](http://agile.esm.co.jp/)
 
 OSS Gate東京ミートアップの会場を提供しています。
 
 以下は会場を提供したイベントです。
 
-- TODO（会場提供してくれたミートアップのイベントページ）
+- ...
+- [OSS Gate東京ミートアップ2017-06-19](https://oss-gate.doorkeeper.jp/events/61030)
+- [OSS Gate東京ミートアップ2017-05-22](https://oss-gate.doorkeeper.jp/events/60514)
+- [OSS Gate東京ミートアップ2017-04-13](https://oss-gate.doorkeeper.jp/events/59418)
+- [OSS Gate東京ミートアップ2017-03-30](https://oss-gate.doorkeeper.jp/events/58374)
+- [OSS Gate東京ミートアップ2017-02-20](https://oss-gate.doorkeeper.jp/events/56845)
+- [OSS Gate東京ミートアップ2017-01-16](https://oss-gate.doorkeeper.jp/events/55608)
 
 社員がOSS Gateワークショップに参加するための交通費を支援しています。
 
 以下は交通費を支援したイベントです。
 
-- TODO（OSS Gate札幌ワークショップに2名とか）
+- ...
+- [OSS Gateワークショップin札幌2016-09-24](https://oss-gate.doorkeeper.jp/events/50661)で2名
 
-TODO（会社説明とか宣伝文句）
+私たちは、ソフトウェア開発のプロフェッショナルとしての誠実な態度と、アジャイル開発のアプローチを通じて「お客さまに価値を提供し続けるシステム」を構築し、お客さまと一緒に育てていきます。アジャイルと Ruby の組み合わせが実現するシステム開発は、開発者が充実感と「楽しさ」を感じられる開発であり、そこにはきっとビジネス価値がある――私たちはそう信じて行動を続けています。
+
+アジャイルと Ruby の組み合わせが実現するシステム開発に関心のある方は[応募](https://www.wantedly.com/projects/28670)してください。
 
 ## 株式会社えにしテック {#enishi-tech}
 
