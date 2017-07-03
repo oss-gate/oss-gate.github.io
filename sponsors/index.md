@@ -141,7 +141,7 @@ TODO（会社説明とか宣伝文句）
 
 ## ピクシブ株式会社 {#pixiv}
 
-[ピクシブ株式会社](https://www.pixiv.co.jp/) TODO：ロゴ
+![[ピクシブ株式会社](https://www.pixiv.co.jp/)](logos/pixiv.svg)
 
 OSS Gate東京ワークショップを開催しています。
 
