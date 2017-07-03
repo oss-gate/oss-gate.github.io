@@ -149,3 +149,27 @@ OSS Gate東京ワークショップの会場を提供しています。
 - [OSS Gate東京ワークショップ2016-05-28](https://oss-gate.doorkeeper.jp/events/38550)
 
 東京Ruby会議11は、プログラムの実装技術について議論するカンファレンスです。技術的好奇心を改めて呼び起こし、プログラミングの難しさ、そして楽しさを再発見する場を目指します。
+
+## クラスメソッド {#classmethod}
+
+[クラスメソッド](https://classmethod.jp/) TODO：ロゴ
+
+OSS Gate大阪ワークショップの会場を提供しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate大阪ワークショップ2017-04-22](https://oss-gate.doorkeeper.jp/events/58579)
+
+TODO（会社説明とか宣伝文句）
+
+## 関西Ruby会議2017実行委員会 {#kanrk2017}
+
+[![関西Ruby会議2017実行委員会](logos/kanrk2017.png)](https://rubykansai.github.io/kansai2017/)
+
+OSS Gate大阪ワークショップの会場を提供しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate大阪ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59634)
+
+関西最大級の Rubyist のお祭りイベントです。関西内外からたくさんの Rubyist が集まります。関西Ruby会議2017 のテーマは Ruby Community and Ruby Business です。
