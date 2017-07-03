@@ -147,10 +147,11 @@ OSS Gate東京ワークショップを開催しています。
 
 以下は開催したイベントです。
 
-- ...
 - [OSS Gate東京ワークショップ for Mastodon in ピクシブ 2017-06-29](https://oss-gate.doorkeeper.jp/events/61807)
 
-TODO（会社説明とか宣伝文句）
+『創作活動がもっと楽しくなる場所をつくる』ことを理念に、イラストSNS「[pixiv](https://www.pixiv.net/)」、ショップ作成サービス「[BOOTH](https://booth.pm/)」、お絵描きアプリ「[pixiv Sketch](https://sketch.pixiv.net/)」、アイテム制作サービス「[pixivFACTORY](https://factory.pixiv.net/)」、そして創作活動や自由なコミュニケーションを楽しめる場「[Pawoo(パウー)](https://pawoo.net/about)」(Mastodon) などを運営しています。
+
+これらのサービスには Debian GNU/Linux、nginx、MySQL、Ruby、PHP、Node.jsや各種ライブラリなど、数多くのフリーソフトウェア・OSSが不可欠です。その成果や運用によって得られた知見は[GitHub: pixiv Inc.](https://github.com/pixiv)や[pixiv inside](https://inside.pixiv.blog/)などで積極的に公開しています。
 
 ## ファーストサーバ株式会社 {#firstserver}
 
