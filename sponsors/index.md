@@ -175,3 +175,18 @@ OSS Gate東京ワークショップの会場を提供しています。
 - [OSS Gate東京ワークショップ2016-05-28](https://oss-gate.doorkeeper.jp/events/38550)
 
 東京Ruby会議11は、プログラムの実装技術について議論するカンファレンスです。技術的好奇心を改めて呼び起こし、プログラミングの難しさ、そして楽しさを再発見する場を目指します。
+
+## YassLab {#yasslab}
+
+[![YassLab](logos/yasslab.png)](https://yasslab.jp/) 
+
+OSS Gateワークショップの動画収録と編集、およびYouTube公開までをサポートしています。
+
+以下は動画公開したイベントの一覧です (最新順)。
+
+- [YouTube動画再生リスト](https://www.youtube.com/playlist?list=PLg41HKRyxE6iIOFwVrosAvriRxRFCbFap) @ [OSS Gate東京ワークショップ2017-06-29](https://oss-gate.doorkeeper.jp/events/61807)
+- [YouTube動画再生リスト](https://www.youtube.com/playlist?list=PLg41HKRyxE6jpvMiXuTHdvSzlB_9KDEWk) @ [OSS Gate大阪ワークショップ2017-02-25](https://oss-gate.doorkeeper.jp/events/56141)
+
+東京と沖縄を拠点としたリモートチームです。[Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)を制作・運営しながら、[ドキュメント翻訳を自動化する仕組み](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs)の研究開発を行ったり、その過程で得られた知見を[GitHub上から公開](https://github.com/yasslab)しています。
+
+また、上記で得られた経験と知識をベースに[Ruby/Railsの開発支援サービス](https://yasslab.jp/ja/agile)も行っています。Ruby/Railsの開発でお困りのことや、事業をもっと早く進めたいときがあれば、ご連絡ください ;)
