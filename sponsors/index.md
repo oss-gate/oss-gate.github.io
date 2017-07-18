@@ -82,13 +82,20 @@ OSS Gate大阪ワークショップの会場を提供しています。
 
 ## 株式会社クラウドワークス {#crowdworks}
 
-[株式会社クラウドワークス](https://crowdworks.co.jp/) TODO：ロゴ
+[![株式会社クラウドワークス](logos/crowdworks.png)](https://crowdworks.co.jp/)
 
 OSS Gate東京ワークショップの会場を提供しています。
 
-- TODO（会場提供してくれたワークショップのイベントページ）
+- ...
+- [OSS Gate東京ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/61378)
+- [OSS Gate東京ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59202)
+- [OSS Gate東京ワークショップ2017-03-25](https://oss-gate.doorkeeper.jp/events/57049)
+- [OSS Gate東京ワークショップ2017-01-28](https://oss-gate.doorkeeper.jp/events/52881)
+- [OSS Gateワークショップ2016-11-26](https://oss-gate.doorkeeper.jp/events/50539)
+- [OSS Gateワークショップ2016-09-24](https://oss-gate.doorkeeper.jp/events/46275)
+- [OSS Gateワークショップ2016-07-30](https://oss-gate.doorkeeper.jp/events/42159)
 
-TODO（会社説明とか宣伝文句）
+クラウドワークスは多くのOSSを活用してサービスを提供しています。そのOSSやOSSを開発する人を応援するためにOSS Gateに協力しています。
 
 ## クラスメソッド株式会社 {#classmethod}
 
@@ -179,7 +186,7 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 ## YassLab {#yasslab}
 
-[![YassLab](logos/yasslab.png)](https://yasslab.jp/) 
+[![YassLab](logos/yasslab.png)](https://yasslab.jp/)
 
 OSS Gateワークショップの動画収録と編集、およびYouTube公開までをサポートしています。
 
