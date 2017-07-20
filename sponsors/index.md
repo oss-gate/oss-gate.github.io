@@ -190,11 +190,11 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 動画の収録と編集、および[Doorkeeperスポンサー](http://doorkeeper.yasslab.jp/)としてOSS Gateをサポートしています。
 
-以下は動画公開したイベントの一覧です (最新順)。
+以下は公開した動画の一覧です (最新順)。
 
-- [OSS Gate Meetup の雰囲気 - YouTube](https://www.youtube.com/watch?v=vjT2BbHzlUM)
-- [YouTube動画再生リスト](https://www.youtube.com/playlist?list=PLg41HKRyxE6iIOFwVrosAvriRxRFCbFap) @ [OSS Gate東京ワークショップ2017-06-29](https://oss-gate.doorkeeper.jp/events/61807)
-- [YouTube動画再生リスト](https://www.youtube.com/playlist?list=PLg41HKRyxE6jpvMiXuTHdvSzlB_9KDEWk) @ [OSS Gate大阪ワークショップ2017-02-25](https://oss-gate.doorkeeper.jp/events/56141)
+- [OSS Gate Meetup (2017-07-13) の動画](https://www.youtube.com/watch?v=vjT2BbHzlUM)
+- [OSS Gate 東京ワークショップ (2017-06-29) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6iIOFwVrosAvriRxRFCbFap)
+- [OSS Gate 大阪ワークショップ (2017-02-25) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6jpvMiXuTHdvSzlB_9KDEWk)
 
 東京と沖縄を拠点としたリモートチームです。[Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)を制作・運営しながら、[ドキュメント翻訳を自動化する仕組み](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs)の研究開発を行ったり、その過程で得られた知見を[GitHub上から公開](https://github.com/yasslab)しています。
 
