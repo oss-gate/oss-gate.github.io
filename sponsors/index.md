@@ -188,7 +188,7 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 [![YassLab](logos/yasslab.png)](https://yasslab.jp/)
 
-OSS Gateワークショップの動画収録と編集、およびYouTube公開までをサポートしています。
+動画の収録と編集、および[Doorkeeperスポンサー](http://doorkeeper.yasslab.jp/)としてOSS Gateをサポートしています。
 
 以下は動画公開したイベントの一覧です (最新順)。
 
