@@ -7,12 +7,6 @@ OSS Gateは「OSS開発に参加する人が増えて欲しい」みなさんの
 
 協力してくれる方は[Gitterのoss-gate/general](https://gitter.im/oss-gate/general)で相談するか、須藤（kou@clear-code.com)にお問い合わせください。
 
-## イベントページの費用
-
-OSS Gateはイベントページの管理に[Doorkeeper](https://www.doorkeeper.jp/)の[スタータープラン](https://www.doorkeeper.jp/pricing)（月額1500円）を利用しています。スタータープランは同時に最大5イベントまでしか公開できませんが、OSS Gateが東京だけでなくいろいろな地域で開催されるようになるにつれ同時に5イベントでは足りなくなってきました。
-
-最大イベント数の上限を上げるためにDoorkeeprの費用を支払ってくれる形での協力を歓迎します。
-
 ## イベント会場の提供
 
 TODO：（要件を書く）
