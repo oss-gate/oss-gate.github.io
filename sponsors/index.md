@@ -192,6 +192,7 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 以下は公開した動画の一覧です (最新順)。
 
+- [OSS Gate 東京ワークショップ (2017-07-29) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6gIvt3sM09REYvLYkRRkuaS)
 - [OSS Gate Meetup (2017-07-13) の動画](https://www.youtube.com/watch?v=vjT2BbHzlUM)
 - [OSS Gate 東京ワークショップ (2017-06-29) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6iIOFwVrosAvriRxRFCbFap)
 - [OSS Gate 大阪ワークショップ (2017-02-25) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6jpvMiXuTHdvSzlB_9KDEWk)
