@@ -7,6 +7,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 
 ## [OSS Gate東京ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/61378)
   * [OSS Gate ワークショップ2017-07-29 開催レポート](https://medium.com/@kato.tomoyuki/oss-gate-workshop-20170729-152987968d36)
+  * [OSS Gate Tokyo ワークショップでサポーターをしてきた \| repl\.info](https://repl.info/archives/1322)
 
 ## [OSS Gate東京ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59202)
   * [OSS Gate東京ワークショップ#9にサポーターとして参加してきた - ただのにっき(2017-05-27)](http://sho.tdiary.net/20170527.html#p01)
