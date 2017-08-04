@@ -15,9 +15,16 @@ OSS Gate札幌ワークショップで会場を提供しています。
 
 以下は会場を提供したイベントです。
 
-- TODO（会場提供してくれたワークショップのイベントページ）
+- [OSS Gate札幌ワークショップ2017-06-17](https://oss-gate.doorkeeper.jp/events/59699)
+- [OSS Gate札幌ワークショップ2017-03-18](https://oss-gate.doorkeeper.jp/events/54641)
+- [OSS Gate札幌ワークショップ2017-01-21](https://oss-gate.doorkeeper.jp/events/54640)
+- [OSS Gateワークショップin札幌2016-11-26](https://oss-gate.doorkeeper.jp/events/50662)
+- [OSS Gateワークショップin札幌2016-09-24](https://oss-gate.doorkeeper.jp/events/50661)
 
-TODO（会社説明とか宣伝文句）
+私たちは札幌に本社を構え、LAMP（CentOS/Ubuntu、Apache/Nginx、MySQL/KVS、PHP）及びUnityを用いた、
+ゲーム開発やモバイル向けアプリケーション開発をメイン事業としたシステム会社です。
+現在では150名以上のエンジニアを抱え、技術的アプローチを得意とし、有名タイトルを多数手がけており、
+最近ではVRやIoTなど、ゲーム開発で培った技術力とノウハウを糧に幅広く事業展開を進めています。
 
 ## 株式会社永和システムマネジメント {#esm}
 
