@@ -9,7 +9,7 @@ OSS Gateはみなさんの協力を待っています。協力の方法は[ス�
 
 ## 株式会社インフィニットループ {#infiniteloop}
 
-[株式会社インフィニットループ](https://www.infiniteloop.co.jp/) TODO：ロゴ
+[![株式会社インフィニットループ](logos/infiniteloop_logo.png)](https://www.infiniteloop.co.jp/)
 
 OSS Gate札幌ワークショップで会場を提供しています。
 
