@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ for 高専 2017-09-02](https://oss-gate.doorkeeper.jp/events/63111)
+  * [[OSS Gate東京ワークショップ for 高専で進行役をしてきた - ただのにっき(2017-09-02)](http://sho.tdiary.net/20170902.html#p01)
+
 ## [OSS Gate京都ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/62572)
   * [「OSS Gate京都ワークショップ」でコワーキングスペース Hanare　Iwakura を使って頂きました \- 6VOX](http://blog.6vox.com/2017/07/oss-gate-hanareiwakura.html)
 
