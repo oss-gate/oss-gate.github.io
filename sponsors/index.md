@@ -69,8 +69,10 @@ TODO（会社説明とか宣伝文句）
 
 [![株式会社SEプラス](logos/seplus_logo.png)](https://www.seplus.jp/)
 
-OSS Gate東京キックオフ・ふりかえりの会場を提供しています。
+OSS Gate東京キックオフ・ふりかえりの会場とチラシを提供しています。
 
+- [RubyKaigi 2017で配布するOSS Gateのチラシを印刷](https://gitter.im/oss-gate/general?at=59bb4780cfeed2eb650f09f4)
+- [OSS Gate東京ふりかえり2017-09](https://oss-gate.doorkeeper.jp/events/63831)
 - [OSS Gate東京ふりかえり2017-01 ~ 2017-04](https://oss-gate.doorkeeper.jp/events/59283)
 - [OSS Gate ふりかえり 2016](https://oss-gate.doorkeeper.jp/events/54119)
 - [OSS Gate を立ち上げよう](https://oss-gate.doorkeeper.jp/events/33335)
