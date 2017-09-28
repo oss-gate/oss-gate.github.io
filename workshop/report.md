@@ -8,6 +8,9 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 ## [OSS Gate東京ワークショップ for 高専 2017-09-02](https://oss-gate.doorkeeper.jp/events/63111)
   * [[OSS Gate東京ワークショップ for 高専で進行役をしてきた - ただのにっき(2017-09-02)](http://sho.tdiary.net/20170902.html#p01)
 
+## [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053)
+  * [ワークショップをやらないOSS Gate東京ミートアップに参加しています - 横あるき](https://kuno.kdns.info/post/20170928142026-oss-gate-meetup-drastic-try)
+
 ## [OSS Gate京都ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/62572)
   * [「OSS Gate京都ワークショップ」でコワーキングスペース Hanare　Iwakura を使って頂きました \- 6VOX](http://blog.6vox.com/2017/07/oss-gate-hanareiwakura.html)
 
