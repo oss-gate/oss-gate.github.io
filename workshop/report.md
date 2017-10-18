@@ -6,7 +6,7 @@ title:  ワークショップレポート
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
 ## OSS Gate ワークショップ in Fujitsu 2017-10-02
-  * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/fujitsu_report/oss_gate_report_fj.md)
+  * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)](/report/workshop/2017/10/02/workshop-report-in-fujitsu.html)
 
 ## [OSS Gate東京ワークショップ2017-09-30](https://oss-gate.doorkeeper.jp/events/64582)
   * [OSS Gate東京ワークショップ\#11にサポートメンターとして参加してきた \- ただのにっき\(2017\-09\-30\)](http://sho.tdiary.net/20170930.html#p01)
@@ -78,7 +78,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
   * [OSSGateワークショップに参加した感想](http://blog.zitaku.net/2016/09/26/ossgate/)
   * [9月24日「OSS Gate ワークショップ」が開催されました！ \| Colorful Works(カラフルワークス)](http://www.colorfulworks.crowdworks.co.jp/single-post/2016/09/26/9%E6%9C%8824%E6%97%A5%E3%80%81OSS-Gate%E3%81%AE%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81)（会場提供のクラウドワークスさん）
   * [OSS Gateワークショップ#5にメンターとして参加してきた(半日だけ) - ただのにっき(2016-09-24)](http://sho.tdiary.net/20160924.html#p01)
-  * [オープンソース開発プロジェクトの参加者になるワークショップ「OSS Gateワークショップ」](http://oss-gate.github.io/report/workshop/2016/09/24/workshop-report-tokyo.html)
+  * [オープンソース開発プロジェクトの参加者になるワークショップ「OSS Gateワークショップ」](/report/workshop/2016/09/24/workshop-report-tokyo.html)
   * [前回初メンターだった私がOSS Gateワークショップでサポートメンターをしてみました - 横あるき](https://kuno.kdns.info/post/20161125182047-try-support-mentor-oss-gate)
 
 ## [OSS Gate東京ワークショップ2016-07-30](https://oss-gate.doorkeeper.jp/events/42159)

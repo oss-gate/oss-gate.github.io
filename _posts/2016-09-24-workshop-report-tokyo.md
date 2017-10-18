@@ -13,7 +13,7 @@ OSS Gateワークショップは、2016年の3月に始まり、2か月に1度�
 
 今回は、この「OSS Gateワークショップ」について、詳しく紹介します。
 
-![写真1](https://oss-gate.github.io/images/20160924/photo01.png)
+![写真1](/images/posts/2016-09-24-workshop-report-tokyo/photo01.png)
 
 
 ## オープンソース開発プロジェクト敷居は高い?
@@ -41,7 +41,7 @@ OSS Gateワークショップの参加者に、開発プロジェクトに参加
 
 OSS Gateワークショップの目的は、このようなオープンソース開発プロジェクトの参加経験がない人を、経験者に変えることにあります。参加者も、そんな感じの人たちが集まっています。そして、このような活動を通じて、OSS開発者を継続的に増やしたいという目論見があります。
 
-![アンケート・参加目的](https://oss-gate.github.io/images/20160924/mokuteki.png)
+![アンケート・参加目的](/images/posts/2016-09-24-workshop-report-tokyo/mokuteki.png)
 
 OSS Gateワークショップが始まったきっかけの一つは、2015年に開催された[OSS Hack Weekend](http://www.seplus.jp/sezemi/ohw/)というイベントでした。Ruby開発や[リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)のあとがきなどで有名な、クリアコードの須藤功平さんを中心にして、学生を対象にして最初のワークショップが開催されました。そこで、「OSS開発プロジェクトに未参加の人は参加方法がわからないだけで、参加方法がわかればOSS開発に参加できる」という手応えを得たことから、このような取り組みを継続的に行っていくOSS Gateが始まりました。現在では、RubyやLinuxカーネルの開発者などが、参加しています。
 
@@ -66,7 +66,7 @@ OSS Gateは、これまでに6回のワークショップを開催しました�
 
 しかし、そこが開発プロジェクトにフィードバックするチャンスなのです。
 
-![写真2](https://oss-gate.github.io/images/20160924/photo02.png)
+![写真2](/images/posts/2016-09-24-workshop-report-tokyo/photo02.png)
 
 
 

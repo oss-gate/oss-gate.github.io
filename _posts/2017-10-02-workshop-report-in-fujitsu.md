@@ -1,4 +1,9 @@
-# OSS Gate のワークショップをFujitsuでも実施してみた（開催レポート）
+---
+layout: post
+title:  "OSS Gate のワークショップをFujitsuでも実施してみた（開催レポート）"
+date:   2017-10-02 18:00:00 +0900
+categories: report workshop
+---
 
 ## はじめに
 
@@ -9,7 +14,7 @@
 そのかたわら、OSSの開発者を増やすことを私のライフワークとしていて、Fujitsu社内／社外でいろいろな活動をしています。  
 
 ちなみに、先月CROSS2017というイベントに行ったのですが、こんな感じで自己紹介を晒してました。   
-![自己紹介](./self_introduce.jpg)  
+![自己紹介](/images/posts/2017-10-02-workshop-report-in-fujitsu/self-introduce.jpg)  
 
 今回、FujitsuのOSSの開発者を増やすための活動として、 __Fujitsu社内__ でOSS Gateのワークショップを実施することができました。  
 これは、そのときの開催レポートです。  
@@ -134,7 +139,7 @@ SIerと言われ、色々な厳しいご意見を頂く弊社ですが、OSSコ�
 
 OSS Gateワークショップの内容も、外でいつも行っているワークショップと大体同じ形で進めることが出来ました。
 
-![当日の写真](ossgate_fj_photo.jpg)
+![当日の写真](/images/posts/2017-10-02-workshop-report-in-fujitsu/workshop.jpg)
 
 ## OSS Gate ワークショップをやってよかったこと
 
