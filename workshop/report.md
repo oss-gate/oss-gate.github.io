@@ -33,6 +33,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 
 ## OSS Gate ワークショップ in Spookies 2017-05-10, 05-12 
   * [OSS Gate WorkshopをやってOSS開発者率が42.8%になった | スプーキーズのちょっとTech](http://labs.spookies.co.jp/entry/2017/05/22/180434)
+  * [OSS Gate Workshop を開催するためにやったこと](http://masayuki14.hatenablog.com/entry/2017/05/24/222610)
 
 ## [OSS Gate大阪ワークショップ2017-04-22](https://oss-gate.doorkeeper.jp/events/58579)
   * [OSS Gate 大阪ワークショップに参加しました ｜ Developers.IO](http://dev.classmethod.jp/study_meeting/event-report-oss-gate-osaka/)
