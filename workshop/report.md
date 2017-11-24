@@ -5,8 +5,14 @@ title:  ワークショップレポート
 
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ2017-10-08 - PHPカンファレンス2017会場編 -](https://phpcon.connpass.com/event/66822/)
+  * [OSS Gate 東京ワークショップ PHPカンファレンス2017会場編にサポーターとして参加してきた。 #oss_gate #phpcon2017 - Satoryu's Diary(2017-10-08)](https://satoryu-diary.herokuapp.com/20171008.html#p01)
+  * [PHPカンファレンス2017 - PostgreSQLとPGroongaで作るPHPマニュアル高速全文検索システム - OSS Gate東京ワークショップ #phpcon2017 - (2017-10-10)](http://www.clear-code.com/blog/2017/10/10.html)
+  * [PHP カンファレンス2017に行ってきました | バシャログ。](http://bashalog.c-brains.jp/17/10/19-100000.php)
+
 ## OSS Gate ワークショップ in Fujitsu 2017-10-02
   * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)](/report/workshop/2017/10/02/workshop-report-in-fujitsu.html)
+  * [OSS開発支援サービス事例：富士通グループ向けOSS Gateワークショップのサポート - (2017-10-24)](http://www.clear-code.com/blog/2017/10/24.html)
 
 ## [OSS Gate東京ワークショップ2017-09-30](https://oss-gate.doorkeeper.jp/events/64582)
   * [OSS Gate東京ワークショップ\#11にサポートメンターとして参加してきた \- ただのにっき\(2017\-09\-30\)](http://sho.tdiary.net/20170930.html#p01)
