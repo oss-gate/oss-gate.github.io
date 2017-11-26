@@ -28,6 +28,8 @@ OSS Gate東京ミートアップの会場を提供しています。
 以下は会場を提供したイベントです。
 
 - ...
+- [OSS Gate東京ミートアップ2017-11-22](https://oss-gate.doorkeeper.jp/events/66982)
+- [OSS Gate東京ミートアップ2017-10-23](https://oss-gate.doorkeeper.jp/events/65754)
 - [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053)
 - [OSS Gate東京ミートアップ2017-07-13](https://oss-gate.doorkeeper.jp/events/62157)
 - [OSS Gate東京ミートアップ2017-06-19](https://oss-gate.doorkeeper.jp/events/61030)
