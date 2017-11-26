@@ -8,7 +8,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 ## [OSS Gate東京ワークショップ2017-10-08 - PHPカンファレンス2017会場編 -](https://phpcon.connpass.com/event/66822/)
   * [OSS Gate 東京ワークショップ PHPカンファレンス2017会場編にサポーターとして参加してきた。 #oss_gate #phpcon2017 - Satoryu's Diary(2017-10-08)](https://satoryu-diary.herokuapp.com/20171008.html#p01)
   * [PHPカンファレンス2017 - PostgreSQLとPGroongaで作るPHPマニュアル高速全文検索システム - OSS Gate東京ワークショップ #phpcon2017 - (2017-10-10)](http://www.clear-code.com/blog/2017/10/10.html)
-  * [PHP カンファレンス2017に行ってきました | バシャログ。](http://bashalog.c-brains.jp/17/10/19-100000.php)
+  * [PHP カンファレンス2017に行ってきました \| バシャログ。](http://bashalog.c-brains.jp/17/10/19-100000.php)
 
 ## OSS Gate ワークショップ in Fujitsu 2017-10-02
   * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)](/report/workshop/2017/10/02/workshop-report-in-fujitsu.html)
