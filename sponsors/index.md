@@ -179,6 +179,18 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 サイオスのエンジニアによる情報発信サイトはいくつかありますが、初級エンジニアをターゲットとした [OSS on Azure 技術ブログ](http://azure.sios.jp/) 、[OSS脆弱性情報ブログ](https://oss.sios.com/security/collect-vulnerability/) などが人気となっています。
 
+## さくらインターネット株式会社 {#sakura-internet}
+
+[![さくらインターネット株式会社](logos/sakura-internet.png)](https://www.sakura.ad.jp/)
+
+さくらのコミュニティ「さくらクラブ」との共催にて、OSS Gate大阪ワークショップを開催しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate大阪ワークショップ2017-08-12 with さくらクラブ](https://oss-gate.doorkeeper.jp/events/63163)
+
+さくらインターネットは、日本のインターネット黎明期からデータセンター事業を展開。通信環境を左右する回線容量は、国内事業者では最大級。「[さくらのレンタルサーバ](https://www.sakura.ad.jp)」「[さくらのVPS](https://vps.sakura.ad.jp/)」「[さくらのクラウド](https://cloud.sakura.ad.jp/)」「[さくらの専用サーバ](https://server.sakura.ad.jp/)」などのサーバーサービスはもちろん、機械学習に適した計算処理用途の「[高火力コンピューティング](https://www.sakura.ad.jp/koukaryoku/)」、ネットワーク構成やセキュリティを意識せずプロダクトの開発に集中できるIoTプラットフォーム「[sakura.io](https://sakura.io/)」など、コストパフォーマンスに優れたインターネットインフラサービスを全国5ヶ所のデータセンターから幅広いラインアップで提供しています。
+
 ## ピクシブ株式会社 {#pixiv}
 
 ![[ピクシブ株式会社](https://www.pixiv.co.jp/)](logos/pixiv.svg)
