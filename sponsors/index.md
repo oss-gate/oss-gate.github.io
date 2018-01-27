@@ -35,6 +35,8 @@ OSS Gate東京ミートアップの会場を提供しています。
 以下は会場を提供したイベントです。
 
 - ...
+- [OSS Gate東京ミートアップ2017-11-22](https://oss-gate.doorkeeper.jp/events/66982)
+- [OSS Gate東京ミートアップ2017-10-23](https://oss-gate.doorkeeper.jp/events/65754)
 - [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053)
 - [OSS Gate東京ミートアップ2017-07-13](https://oss-gate.doorkeeper.jp/events/62157)
 - [OSS Gate東京ミートアップ2017-06-19](https://oss-gate.doorkeeper.jp/events/61030)
@@ -134,6 +136,7 @@ OSS Gate大阪ワークショップの会場を提供しています。
 以下は社員が業務時間の一部で参加したイベントです。
 
 - ...
+- [OSS Gate東京ワークショップ2017-11-25](https://oss-gate.doorkeeper.jp/events/66254)で2名
 - [OSS Gate東京ワークショップ2017-09-30](https://oss-gate.doorkeeper.jp/events/64582)で2名
 - [OSS Gate東京ワークショップ for 高専 2017-09-02](https://oss-gate.doorkeeper.jp/events/63111)で3名
 - [OSS Gate東京ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/61378)で1名
@@ -176,6 +179,18 @@ OSS Gate東京ワークショップの会場を提供しています。
 サイオステクノロジーは、オープンソースソフトウェアを軸としたソフトウェア製品の開発・販売・サポート、システム基築やアプリケーション開発、クラウド上でのアプリケーションサービスなどを提供しています。OSS 推進団体のメンバーて、様々なテクニカルイベント開催、技術情報発信、コミュニティ支援などを積極的に行っています。
 
 サイオスのエンジニアによる情報発信サイトはいくつかありますが、初級エンジニアをターゲットとした [OSS on Azure 技術ブログ](http://azure.sios.jp/) 、[OSS脆弱性情報ブログ](https://oss.sios.com/security/collect-vulnerability/) などが人気となっています。
+
+## さくらインターネット株式会社 {#sakura-internet}
+
+[![さくらインターネット株式会社](logos/sakura-internet.png)](https://www.sakura.ad.jp/)
+
+さくらのコミュニティ「さくらクラブ」との共催にて、OSS Gate大阪ワークショップを開催しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate大阪ワークショップ2017-08-12 with さくらクラブ](https://oss-gate.doorkeeper.jp/events/63163)
+
+さくらインターネットは、日本のインターネット黎明期からデータセンター事業を展開。通信環境を左右する回線容量は、国内事業者では最大級。「[さくらのレンタルサーバ](https://www.sakura.ad.jp)」「[さくらのVPS](https://vps.sakura.ad.jp/)」「[さくらのクラウド](https://cloud.sakura.ad.jp/)」「[さくらの専用サーバ](https://server.sakura.ad.jp/)」などのサーバーサービスはもちろん、機械学習に適した計算処理用途の「[高火力コンピューティング](https://www.sakura.ad.jp/koukaryoku/)」、ネットワーク構成やセキュリティを意識せずプロダクトの開発に集中できるIoTプラットフォーム「[sakura.io](https://sakura.io/)」など、コストパフォーマンスに優れたインターネットインフラサービスを全国5ヶ所のデータセンターから幅広いラインアップで提供しています。
 
 ## ピクシブ株式会社 {#pixiv}
 

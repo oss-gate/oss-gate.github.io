@@ -5,10 +5,13 @@ title:  ワークショップレポート
 
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ2017-11-25](https://oss-gate.doorkeeper.jp/events/66254)
+  * [OSS Gate東京ワークショップ#12にサポートメンターとして参加してきた - ただのにっき(2017-11-25)](http://sho.tdiary.net/20171125.html#p01)
+
 ## [OSS Gate東京ワークショップ2017-10-08 - PHPカンファレンス2017会場編 -](https://phpcon.connpass.com/event/66822/)
   * [OSS Gate 東京ワークショップ PHPカンファレンス2017会場編にサポーターとして参加してきた。 #oss_gate #phpcon2017 - Satoryu's Diary(2017-10-08)](https://satoryu-diary.herokuapp.com/20171008.html#p01)
   * [PHPカンファレンス2017 - PostgreSQLとPGroongaで作るPHPマニュアル高速全文検索システム - OSS Gate東京ワークショップ #phpcon2017 - (2017-10-10)](http://www.clear-code.com/blog/2017/10/10.html)
-  * [PHP カンファレンス2017に行ってきました | バシャログ。](http://bashalog.c-brains.jp/17/10/19-100000.php)
+  * [PHP カンファレンス2017に行ってきました \| バシャログ。](http://bashalog.c-brains.jp/17/10/19-100000.php)
 
 ## OSS Gate ワークショップ in Fujitsu 2017-10-02
   * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)](/report/workshop/2017/10/02/workshop-report-in-fujitsu.html)
@@ -19,7 +22,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
   * [9月のOSS Gate東京ワークショップに参加しました - 横あるき](https://kuno.kdns.info/post/20171010184245-oss-gate-2017-09-30-tokyo)
 
 ## [OSS Gate東京ワークショップ for 高専 2017-09-02](https://oss-gate.doorkeeper.jp/events/63111)
-  * [[OSS Gate東京ワークショップ for 高専で進行役をしてきた - ただのにっき(2017-09-02)](http://sho.tdiary.net/20170902.html#p01)
+  * [OSS Gate東京ワークショップ for 高専で進行役をしてきた - ただのにっき(2017-09-02)](http://sho.tdiary.net/20170902.html#p01)
 
 ## [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053)
   * [ワークショップをやらないOSS Gate東京ミートアップに参加しています - 横あるき](https://kuno.kdns.info/post/20170928142026-oss-gate-meetup-drastic-try)
@@ -37,8 +40,8 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 ## [OSS Gate東京ミートアップ2017-05-22](https://oss-gate.doorkeeper.jp/events/60514)
   * [OSS Gate東京ミートアップ2017-05-22 - koicの日記](http://koic.hatenablog.com/entry/oss-gate-tokyo-meetup-2017-05-22)
 
-## OSS Gate ワークショップ in Spookies 2017-05-10, 05-12 
-  * [OSS Gate WorkshopをやってOSS開発者率が42.8%になった | スプーキーズのちょっとTech](http://labs.spookies.co.jp/entry/2017/05/22/180434)
+## OSS Gate ワークショップ in Spookies 2017-05-10, 05-12
+  * [OSS Gate WorkshopをやってOSS開発者率が42.8%になった | スプーキーズのちょっとTech](http://labs.spookies.co.jp/entry/2017/05/22/180434)
   * [OSS Gate Workshop を開催するためにやったこと](http://masayuki14.hatenablog.com/entry/2017/05/24/222610)
 
 ## [OSS Gate大阪ワークショップ2017-04-22](https://oss-gate.doorkeeper.jp/events/58579)
