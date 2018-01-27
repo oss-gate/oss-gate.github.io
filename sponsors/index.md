@@ -98,6 +98,7 @@ OSS Gate大阪ワークショップの会場を提供しています。
 OSS Gate東京ワークショップの会場を提供しています。
 
 - ...
+- [OSS Gate東京ワークショップ2018-01-27](https://oss-gate.doorkeeper.jp/events/68516)
 - [OSS Gate東京ワークショップ2017-11-25](https://oss-gate.doorkeeper.jp/events/66254)
 - [OSS Gate東京ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/61378)
 - [OSS Gate東京ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59202)
