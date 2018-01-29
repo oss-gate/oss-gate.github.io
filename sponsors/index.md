@@ -136,6 +136,7 @@ OSS Gate大阪ワークショップの会場を提供しています。
 以下は社員が業務時間の一部で参加したイベントです。
 
 - ...
+- [OSS Gate東京ワークショップ2018-01-27](https://oss-gate.doorkeeper.jp/events/68516)で3名
 - [OSS Gate東京ワークショップ2017-11-25](https://oss-gate.doorkeeper.jp/events/66254)で2名
 - [OSS Gate東京ワークショップ2017-09-30](https://oss-gate.doorkeeper.jp/events/64582)で2名
 - [OSS Gate東京ワークショップ for 高専 2017-09-02](https://oss-gate.doorkeeper.jp/events/63111)で3名
