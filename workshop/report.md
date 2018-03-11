@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/68517)
+  * [OSS_GATEワークショップに参加して、RedashにPullRequestを出しました | よしログ](http://yoshitaku.net/2018/03/11/321/)
+
 ## [OSS Gate東京ワークショップ2018-01-27](https://oss-gate.doorkeeper.jp/events/68516)
   * [OSS Gateでgoogletestへの貢献を試みた - Qiita](https://qiita.com/tomoyuki-nakabayashi/items/7eac11d89de2d2da383a)
   * [OSS Gate東京ワークショップ#13にサポートメンターとして参加してきた - ただのにっき(2018-01-27)](http://sho.tdiary.net/20180127.html#p01)
