@@ -7,6 +7,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 
 ## [OSS Gate大阪ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/69160)
   * [OSS Gate 大阪ワークショップ 2018-03-10 に参加しました \| 鯨飲馬食](http://yoichi22.hatenablog.com/entry/2018/03/11/081140)
+  * [OSS Gate大阪ワークショップ2018-03-10に参加しました - @znz blog](https://blog.n-z.jp/blog/2018-03-10-oss-gate-gitlab.html)
 
 ## [OSS Gate東京ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/68517)
   * [OSS_GATEワークショップに参加して、RedashにPullRequestを出しました \| よしログ](http://yoshitaku.net/2018/03/11/321/)
@@ -39,6 +40,9 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 
 ## [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053)
   * [ワークショップをやらないOSS Gate東京ミートアップに参加しています - 横あるき](https://kuno.kdns.info/post/20170928142026-oss-gate-meetup-drastic-try)
+
+## [OSS Gate大阪ワークショップ2017-08-12 with さくらクラブ](https://oss-gate.doorkeeper.jp/events/63163)
+  * [OSS Gate大阪ワークショップ2017-08-12 with さくらクラブに参加しました - @znz blog](https://blog.n-z.jp/blog/2017-08-12-oss-gate-osaka.html)
 
 ## [OSS Gate京都ワークショップ2017-07-29](https://oss-gate.doorkeeper.jp/events/62572)
   * [「OSS Gate京都ワークショップ」でコワーキングスペース Hanare　Iwakura を使って頂きました \- 6VOX](http://blog.6vox.com/2017/07/oss-gate-hanareiwakura.html)
