@@ -262,9 +262,9 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 東京Ruby会議11は、プログラムの実装技術について議論するカンファレンスです。技術的好奇心を改めて呼び起こし、プログラミングの難しさ、そして楽しさを再発見する場を目指します。
 
-## YassLab {#yasslab}
+## YassLab 株式会社 {#yasslab}
 
-[![YassLab](logos/yasslab.png)](https://yasslab.jp/)
+[![YassLab 株式会社](logos/yasslab.png)](https://yasslab.jp/)
 
 動画の収録と編集、および[Doorkeeperスポンサー](https://yasslab.jp/ja/doorkeeper/)としてOSS Gateをサポートしています。
 
