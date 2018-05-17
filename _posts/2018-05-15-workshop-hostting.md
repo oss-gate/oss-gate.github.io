@@ -107,3 +107,8 @@ OSS開発に参加する「入り口」を提供する**OSS Gate**は、OSS開�
 
 - [OSS Gateスポンサー](https://oss-gate.github.io/sponsors/)
 - [スポンサー募集](https://oss-gate.github.io/sponsors/wanted.html)
+
+
+### この他に、質問や問い合わせ・フィードバックをしたい場合、どうすれば良いですか
+
+[oss-gate/general - Gitter](https://gitter.im/oss-gate/general/)で、相談してみてください。不足している情報があるかも知れないので、フィードバックをもらえるとありがたいです。
