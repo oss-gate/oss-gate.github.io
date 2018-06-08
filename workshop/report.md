@@ -5,6 +5,10 @@ title:  ワークショップレポート
 
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## OSS Gate ワークショップ in MonotaRO 2018-05-28, 2018-05-29
+  * [201805社内OSS Gateワークショップレポート \| モノタロウ tech blog](http://tech-blog.monotaro.com/entry/2018/06/08/144639)
+  * [OSS Gateでサポーターをやりながら悩んだこと \| 鯨飲馬食](http://yoichi22.hatenablog.com/entry/2018/06/04/064406)
+
 ## [OSS Gate大阪ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/69160)
   * [OSS Gate 大阪ワークショップ 2018-03-10 に参加しました \| 鯨飲馬食](http://yoichi22.hatenablog.com/entry/2018/03/11/081140)
   * [OSS Gate大阪ワークショップ2018-03-10に参加しました - @znz blog](https://blog.n-z.jp/blog/2018-03-10-oss-gate-gitlab.html)
