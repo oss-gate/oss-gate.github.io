@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "OSS Gate のワークショップをもう一回Fujitsuでも実施してみた（開催レポート）"
+date:   2018-05-29 00:00:00 +0900
+categories: report workshop
+---
+
 # はじめに
 
 こんにちは。[@Yasunorigoto1](https://twitter.com/yasunorigoto1)です。
