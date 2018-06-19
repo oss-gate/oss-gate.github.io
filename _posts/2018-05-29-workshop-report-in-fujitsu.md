@@ -3,7 +3,7 @@
 こんにちは。[@Yasunorigoto1](https://twitter.com/yasunorigoto1)です。
 
 OSS Gateワークショップ、2018/5/29に富士通社内の実施として、2回目を開催することができました。
-[前回のOSS Gate](https://oss-gate.github.io/report/workshop/2017/10/02/workshop-report-in-fujitsu.html)では私から教育部門に「ぜひやりたい」と強く提案する形で実現しましたが、
+[前回のOSS Gate]({{ site.baseurl }}{% post_url 2017-10-02-workshop-report-in-fujitsu %})では私から教育部門に「ぜひやりたい」と強く提案する形で実現しましたが、
 それに対して、今回は教育部門のほうから「やりましょう」と提案があって実現しました。
 （私も最初は知らなくて、気がついたら開催が決まってたというのが正直な所です。）
 OSS Gateワークショップ開催の意義が会社に認められたようで、大変ありがたい所です。
@@ -54,8 +54,8 @@ OSS Gateワークショップでは、上記の様にちょっとしたフィー
 
 # やってみて
 
-![会場の様子](/images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0026_2.JPG)
-![やったことのまとめ](/images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0069.JPG)
+![会場の様子]({{ site.baseurl }}/images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0026_2.JPG)
+![やったことのまとめ]({{ site.baseurl }}/images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0069.JPG)
 
 
 前回は対象のOSSとしてOpenStackのどれかのコンポーネントを選ぶ人が多かったのですが、
