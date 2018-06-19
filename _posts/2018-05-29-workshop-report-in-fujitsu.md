@@ -54,8 +54,8 @@ OSS Gateワークショップでは、上記の様にちょっとしたフィー
 
 # やってみて
 
-![会場の様子](../images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0026_2.JPG)
-![やったことのまとめ](../images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0069.JPG)
+![会場の様子](/images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0026_2.JPG)
+![やったことのまとめ](/images/posts/2018-05-29-workshop-report-in-fujitsu/IMG_0069.JPG)
 
 
 前回は対象のOSSとしてOpenStackのどれかのコンポーネントを選ぶ人が多かったのですが、
