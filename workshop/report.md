@@ -6,7 +6,7 @@ title:  ワークショップレポート
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
 ## OSS Gate ワークショップ in Fujitsu 2018-05-29
-  * [OSS Gate のワークショップをFujitsuで再び実施してみた（開催レポート）](https://oss-gate.github.io/report/workshop/2018/05/28/workshop-report-in-fujitsu.html)
+  * [OSS Gate のワークショップをFujitsuで再び実施してみた（開催レポート）]({{ site.baseurl }}{% post_url 2018-05-29-workshop-report-in-fujitsu %})
 
 ## OSS Gate ワークショップ in MonotaRO 2018-05-28, 2018-05-29
   * [201805社内OSS Gateワークショップレポート \| モノタロウ tech blog](http://tech-blog.monotaro.com/entry/2018/06/08/144639)
@@ -35,7 +35,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
   * [PHP カンファレンス2017に行ってきました \| バシャログ。](http://bashalog.c-brains.jp/17/10/19-100000.php)
 
 ## OSS Gate ワークショップ in Fujitsu 2017-10-02
-  * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)](/report/workshop/2017/10/02/workshop-report-in-fujitsu.html)
+  * [OSS Gate のワークショップをFujitsuでも実施してみた(開催レポート)]({{ site.baseurl }}{% post_url 2017-10-02-workshop-report-in-fujitsu %})
   * [OSS開発支援サービス事例：富士通グループ向けOSS Gateワークショップのサポート - (2017-10-24)](http://www.clear-code.com/blog/2017/10/24.html)
 
 ## [OSS Gate東京ワークショップ2017-09-30](https://oss-gate.doorkeeper.jp/events/64582)
