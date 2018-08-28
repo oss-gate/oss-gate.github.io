@@ -11,11 +11,11 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 スライドはいくつかの方法で表示することができます。自分が使いやすいと思う方法を選びましょう。
 
-* [ソース](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario.rab)：ローカルで[Rabbit](http://rabbit-shocker.org/)を使って表示する
+* [ソース](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario.rab)：ローカルで[Rabbit](https://rabbit-shocker.org/)を使って表示する
 * [Rabbit Slide Show](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/)：Webブラウザーで表示する（Rabbitを用意する必要はない）
 * [PDF](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/scenario.pdf)：ローカルでPDFビューアーを使って表示する
 
-## 2. [シナリオ](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario.md)を読もう！
+## 2. シナリオを読もう！
 
 ワークショップの[シナリオ](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario.md)には、開催する目的や大事にしたいこと、開催当日の各時間帯で行うことなどが網羅的に書かれています。
 
@@ -38,7 +38,7 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 ### 自分の言葉で説明する/しないの判断のしかた
 
-スライドの内容は複数の進行役経験者で改善されてきているものなので、基本的には読み上げるだけでもビギナーやサポーターにとって分かりやすいものになっているはずです。
+スライドの内容は複数の進行役経験者で改善されてきているものなので、基本的には読み上げるだけでもビギナーとサポーターにとって分かりやすいものになっているはずです。
 
 ですが、実際に進行役がスライドを1枚ごとに切り替えて説明するうえでは、スライドの中に趣旨がピンとこない箇所があるかもしれません。そのような箇所を説明する際は、とっさに言葉が出てこなかったりするものです。
 
