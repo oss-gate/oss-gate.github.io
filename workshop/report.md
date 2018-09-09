@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ2018-09-08](https://oss-gate.doorkeeper.jp/events/76040)
+  * [OSS Gate東京ワークショップ2018-09-08に行ってきた](https://qiita.com/Mizmiz1229Xx/items/ee2341f7d2933132e05a)
+
 ## OSS Gate ワークショップ in Fujitsu 2018-05-29
   * [OSS Gate のワークショップをFujitsuで再び実施してみた（開催レポート）]({{ site.baseurl }}{% post_url 2018-05-29-workshop-report-in-fujitsu %})
 
