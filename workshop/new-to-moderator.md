@@ -58,12 +58,13 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 ### Gitterで人に相談してみよう！
 
-OSS Gateコミュニティではやりとりに[Gitter](https://gitter.im/oss-gate/general)を使っていて、アカウントを持っていれば誰でも発言することができます。地域にあわせていくつかチャンネルが分かれています。
+OSS Gateコミュニティではやりとりに[Gitter](https://gitter.im/oss-gate/general)を使っていて、アカウントを持っていれば誰でも発言することができます。地域にあわせて、いくつかルームが分かれています。
 
 * [General](https://gitter.im/oss-gate/general): 全体向け
 * [東京](https://gitter.im/oss-gate/tokyo)
 * [関西](https://gitter.im/oss-gate/kansai): 主に大阪、京都
-* [広島](https://gitter.im/oss-gate/hiroshima)
 * [札幌](https://gitter.im/oss-gate/sapporo)
 
-ピンとこないところをワークショップを開催する地域のチャンネルで相談してみましょう。ワークショップをよく知っている進行役経験者がアドバイスしてくれます。
+上記に自分の地域のルームがなかったら、[ルームの一覧](https://gitter.im/oss-gate/home)から探してみてください。
+
+ピンとこないところをワークショップを開催する地域のルームで相談してみましょう。ワークショップをよく知っている進行役経験者がアドバイスしてくれます。
