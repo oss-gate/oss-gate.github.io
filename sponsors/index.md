@@ -224,6 +224,16 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 さくらインターネットは、日本のインターネット黎明期からデータセンター事業を展開。通信環境を左右する回線容量は、国内事業者では最大級。「[さくらのレンタルサーバ](https://www.sakura.ad.jp)」「[さくらのVPS](https://vps.sakura.ad.jp/)」「[さくらのクラウド](https://cloud.sakura.ad.jp/)」「[さくらの専用サーバ](https://server.sakura.ad.jp/)」などのサーバーサービスはもちろん、機械学習に適した計算処理用途の「[高火力コンピューティング](https://www.sakura.ad.jp/koukaryoku/)」、ネットワーク構成やセキュリティを意識せずプロダクトの開発に集中できるIoTプラットフォーム「[sakura.io](https://sakura.io/)」など、コストパフォーマンスに優れたインターネットインフラサービスを全国5ヶ所のデータセンターから幅広いラインアップで提供しています。
 
+## GMOペパボ株式会社 {#gmo-pepabo}
+
+[![GMOペパボ株式会社](logos/gmo-pepabo.png)](https://pepabo.com/)
+
+OSS Gate東京ワークショップの開場を提供しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate東京ワークショップ2018-10-27](https://oss-gate.doorkeeper.jp/events/76041)
+
 ## GMOメディア株式会社 {#gmo-media}
 [![GMOメディア株式会社](logos/gmo-media.png)](https://www.gmo.media/)
 
