@@ -34,6 +34,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
   * [OSS Gate東京ワークショップ#13にサポートメンターとして参加してきた - ただのにっき(2018-01-27)](http://sho.tdiary.net/20180127.html#p01)
 
 ## [OSS Gate東京ワークショップ2017-11-25](https://oss-gate.doorkeeper.jp/events/66254)
+  * [OSS開発参加の為に一歩踏み出してみた \| そういうこともある](https://blog.shitake4.tech/entry/2017/11/27/OSS%E9%96%8B%E7%99%BA%E5%8F%82%E5%8A%A0%E3%81%AE%E7%82%BA%E3%81%AB%E4%B8%80%E6%AD%A9%E8%B8%8F%E3%81%BF%E5%87%BA%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F)
   * [OSS Gate東京ワークショップ#12にサポートメンターとして参加してきた - ただのにっき(2017-11-25)](http://sho.tdiary.net/20171125.html#p01)
 
 ## [OSS Gate東京ワークショップ2017-10-08 - PHPカンファレンス2017会場編 -](https://phpcon.connpass.com/event/66822/)
