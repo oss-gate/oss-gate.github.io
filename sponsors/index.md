@@ -228,11 +228,11 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 [![GMOペパボ株式会社](logos/gmo-pepabo.png)](https://pepabo.com/)
 
-OSS Gate東京ワークショップの開場を提供しています。
-
-以下は会場を提供したイベントです。
+OSS Gate東京ワークショップの開場を提供しています。以下は会場を提供したイベントです。
 
 - [OSS Gate東京ワークショップ2018-10-27](https://oss-gate.doorkeeper.jp/events/76041)
+
+<a href="https://pepabo.com/" title="GMOペパボ株式会社">GMOペパボ株式会社</a>は「インターネットで可能性をつなげる、ひろげる」というミッションのもと、レンタルサーバー「<a href="https://lolipop.jp/" title="ロリポップ！レンタルサーバー | 利用実績170万人突破！無料SSLあり">ロリポップ！</a>」やオンラインショップ作成サービス「<a href="https://shop-pro.jp/" title="オンラインショップ作成サービス カラーミーショップ">カラーミーショップ</a>」、国内最大のハンドメイドマーケット「<a href="https://minne.com/" title="minne | ハンドメイド・手作り・クラフト作品のマーケット">minne」、オリジナルグッズを手軽に作成・販売できる「<a href="https://suzuri.jp/" title="自分だけのオリジナルグッズを手軽に作成・販売 | SUZURI（スズリ）">SUZURI</a>」をはじめとする個人向けインターネットサービスを提供しています。場所や時間、背景にとらわれず、いろいろな方がインターネットで可能性を開花し、活躍するための環境を創造していくことを目指しています。
 
 ## GMOメディア株式会社 {#gmo-media}
 [![GMOメディア株式会社](logos/gmo-media.png)](https://www.gmo.media/)
