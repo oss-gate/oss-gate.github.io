@@ -234,6 +234,8 @@ OSS Gate東京ワークショップの開場を提供しています。以下は
 
 <a href="https://pepabo.com/" title="GMOペパボ株式会社">GMOペパボ株式会社</a>は「インターネットで可能性をつなげる、ひろげる」というミッションのもと、レンタルサーバー「<a href="https://lolipop.jp/" title="ロリポップ！レンタルサーバー | 利用実績170万人突破！無料SSLあり">ロリポップ！</a>」やオンラインショップ作成サービス「<a href="https://shop-pro.jp/" title="オンラインショップ作成サービス カラーミーショップ">カラーミーショップ</a>」、国内最大のハンドメイドマーケット「<a href="https://minne.com/" title="minne | ハンドメイド・手作り・クラフト作品のマーケット">minne</a>」、オリジナルグッズを手軽に作成・販売できる「<a href="https://suzuri.jp/" title="自分だけのオリジナルグッズを手軽に作成・販売 | SUZURI（スズリ）">SUZURI</a>」をはじめとする個人向けインターネットサービスを提供しています。場所や時間、背景にとらわれず、いろいろな方がインターネットで可能性を開花し、活躍するための環境を創造していくことを目指しています。
 
+Rubyコミッターをはじめ、OSS開発者が多く在籍している会社です。業務を進める上で生まれたOSSは <a href="https://github.com/pepabo" title="GMO Pepabo, Inc.">https://github.com/pepabo</a> などで公開しています。エンジニアとしてソフトウェア開発を楽しみながらOSSにも関わっていきたい人は、ぜひいっしょに働きましょう。GMOペパボ株式会社は<a href="https://pepabo.com/recruit/career/" title="キャリア採用 / アルバイト採用 | 採用情報 | GMOペパボ株式会社">新しいエンジニア仲間を熱烈に求めています</a>！
+
 ## GMOメディア株式会社 {#gmo-media}
 [![GMOメディア株式会社](logos/gmo-media.png)](https://www.gmo.media/)
 
