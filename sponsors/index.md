@@ -61,11 +61,20 @@ OSS Gate札幌ワークショップで会場を提供しています。
 
 [![株式会社永和システムマネジメント](logos/esminc.jpg)](http://agile.esm.co.jp/)
 
-OSS Gate東京ミートアップの会場を提供しています。
+OSS Gate東京ミートアップ、OSS Gate東京もくもく会、OSS Gate東京フォローアップの会場を提供しています。
 
 以下は会場を提供したイベントです。
 
 - ...
+- [OSS Gate東京もくもく会＆フォローアップ2018-09-19](https://oss-gate.doorkeeper.jp/events/78729)
+- [OSS Gate東京もくもく会2018-08-06](https://oss-gate.doorkeeper.jp/events/77543)
+- [OSS Gate東京フォローアップ2018-07-02](https://oss-gate.doorkeeper.jp/events/75940)
+- [OSS Gate東京もくもく会2018-06-25](https://oss-gate.doorkeeper.jp/events/75939)
+- [OSS Gate東京もくもく会2018-05-21](https://oss-gate.doorkeeper.jp/events/74026)
+- [OSS Gate東京もくもく会2018-04-24](https://oss-gate.doorkeeper.jp/events/73435)
+- [OSS Gate東京ミートアップ2018-03-01](https://oss-gate.doorkeeper.jp/events/70883)
+- [OSS Gate東京ミートアップ2018-01-29](https://oss-gate.doorkeeper.jp/events/69403)
+- [OSS Gate東京ミートアップ2017-12-18](https://oss-gate.doorkeeper.jp/events/68119)
 - [OSS Gate東京ミートアップ2017-11-22](https://oss-gate.doorkeeper.jp/events/66982)
 - [OSS Gate東京ミートアップ2017-10-23](https://oss-gate.doorkeeper.jp/events/65754)
 - [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053)
