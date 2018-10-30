@@ -28,7 +28,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
   * [OSS Gate大阪ワークショップ2018-03-10に参加しました - @znz blog](https://blog.n-z.jp/blog/2018-03-10-oss-gate-gitlab.html)
 
 ## [OSS Gate東京ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/68517)
-  * [OSS_GATEワークショップに参加して、RedashにPullRequestを出しました \| よしログ](http://yoshitaku.net/2018/03/11/321/)
+  * [OSS_GATEワークショップに参加して、RedashにPullRequestを出しました \| よしログ](https://yoshitaku-jp.hatenablog.com/entry/2018/03/11/321/)
 
 ## OSS Gate ワークショップ in MonotaRO 2018-01-15, 2018-01-31
   * [OSS Gate 社内限定版を開催してみた \| 鯨飲馬食](http://yoichi22.hatenablog.com/entry/2018/02/03/102935)
