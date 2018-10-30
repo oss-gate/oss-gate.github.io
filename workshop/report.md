@@ -7,6 +7,7 @@ OSS Gateの感想やレポートを見つけたら[このページ](https://gith
 
 ## [OSS Gate東京ワークショップ2018-10-27](https://oss-gate.doorkeeper.jp/events/76041)
   * [OSS Gate東京ワークショップ＠GMO Yours - ただのにっき(2018-10-27)](http://sho.tdiary.net/20181027.html#p01)
+  * [OSS Gateにサポーターとして参加しました。 - よしたく blog](https://yoshitaku-jp.hatenablog.com/entry/2018/10/29/225211)
 
 ## OSS Gate ワークショップ in MonotaRO 2018-10-01
   * [201810社内OSS Gateワークショップレポート \| モノタロウ tech blog](https://tech-blog.monotaro.com/entry/2018/10/17/115442)
