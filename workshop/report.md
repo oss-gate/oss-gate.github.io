@@ -3,7 +3,7 @@ layout: page
 title:  ワークショップレポート
 ---
 
-OSS Gateの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
+OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
 ## [OSS Gate東京ワークショップ2018-10-27](https://oss-gate.doorkeeper.jp/events/76041)
   * [OSS Gate東京ワークショップ＠GMO Yours - ただのにっき(2018-10-27)](http://sho.tdiary.net/20181027.html#p01)
