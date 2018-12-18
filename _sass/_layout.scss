@@ -18,9 +18,9 @@
     margin-bottom: 0;
     float: left;
 
-	background-image: url('../images/logo_s.png');
-	background-repeat:no-repeat;
-	padding:0 0 0 26px;
+    background-image: url('../images/logo_s.png');
+    background-repeat:no-repeat;
+    padding:0 0 0 26px;
 
     &,
     &:visited {
@@ -252,13 +252,13 @@
  * Home
  */
 .home-header {
-	background-image: url('../images/bg.png');
-	color: white;
-	padding: 30px;
+    background-image: url('../images/bg.png');
+    color: white;
+    padding: 30px;
 }
 
 .home-point {
-	text-align:center;
+    text-align:center;
 }
 
 .home-point-heading {
@@ -267,42 +267,42 @@
 }
 
 .home-point-icon {
-	width: 80px;
-	height: 80px;
-	padding: 10px;
+    width: 80px;
+    height: 80px;
+    padding: 10px;
 }
 
 .home-point-title {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 .home-point-text {
-	font-size: small;
+    font-size: small;
 }
 
 .home-point-video {
-	position: relative;
-	margin-bottom: 30px;
-	padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-	padding-top: 25px;
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    padding-top: 25px;
 }
 
 .home-point-video iframe {
-	position: absolute;
-	top:  0;
-	left: 3.5%;
-	width:  95% !important;
-	height: 100% !important;
+    position: absolute;
+    top:  0;
+    left: 3.5%;
+    width:  95% !important;
+    height: 100% !important;
 }
 
 .home-point-caption {
-	position: relative;
-	font-size:     18px;
-	left:          0.5%;
-	margin-top:   -10px;
-	margin-bottom: 30px;
+    position: relative;
+    font-size:     18px;
+    left:          0.5%;
+    margin-top:   -10px;
+    margin-bottom: 30px;
 }
 
 .home-point-line {
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
