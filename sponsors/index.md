@@ -133,6 +133,19 @@ OSS Gate大阪ワークショップの会場を提供しています。
 
 関西最大級の Rubyist のお祭りイベントです。関西内外からたくさんの Rubyist が集まります。関西Ruby会議2017 のテーマは Ruby Community and Ruby Business です。
 
+## Quipper Ltd {#quipper}
+
+[![Quipper Ltd](logos/quipper.svg)](https://www.quipper.com/)
+
+OSS Gate東京ワークショップの会場を提供しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate東京ワークショップ2019-01-26](https://oss-gate.doorkeeper.jp/events/85222)
+
+Quipperは、"Distributors of Wisdom" （「世界の果てまで最高の学びを届けよう」）というビジョンのもと、日本、インドネシア、フィリピンおよびメキシコにてオンライン学習サービスを提供しています。 
+2013年より生徒の学習、先生の宿題管理・問題作成などのオンラインラーニングプラットフォームである『Quipper School』、オンライン講義動画である『Quipper Video』をインドネシア・フィリピンを中心に展開し、2015年に株式会社リクルートマーケティングパートナーズの一員となりました。日本国内では『スタディサプリ』を展開し、2017年度末には国内外サービス累計有料会員が74万人となりました。
+
 ## 株式会社クラウドワークス {#crowdworks}
 
 [![株式会社クラウドワークス](logos/crowdworks.png)](https://crowdworks.co.jp/)
