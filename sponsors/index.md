@@ -135,7 +135,7 @@ OSS Gate大阪ワークショップの会場を提供しています。
 
 ## Quipper Ltd {#quipper}
 
-[![Quipper Ltd](logos/quipper.svg)](https://www.quipper.com/)
+<img src="logos/quipper.svg" alt="Quipper Ltd" width="512px" />
 
 OSS Gate東京ワークショップの会場を提供しています。
 
