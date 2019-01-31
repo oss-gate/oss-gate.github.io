@@ -255,6 +255,19 @@
     background-image: url('../images/bg.png');
     color: white;
     padding: 30px;
+
+    img {
+        float: left;
+        margin-right: 30px;
+    }
+
+    @include media-query($on-laptop) {
+        img {
+            display: block;
+            float: unset;
+            margin: 0 auto 30px;
+        }
+    }
 }
 
 .home-point {
