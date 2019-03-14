@@ -5,6 +5,22 @@ title:  ワークショップレポート
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ2019-03-09](https://oss-gate.doorkeeper.jp/events/86157)
+  * [バグレポートからはじめるコントリビュート - junyanakada: No such programmer](https://junyanakada.com/begin-to-contribute-with-bug-reporting.html)
+
+## [OSS Gate大阪ワークショップ2019-03-09](https://oss-gate.doorkeeper.jp/events/86154)
+  * [OSS開発に参加する門をくぐるサポートがまた連鎖したよ！ - モノタロウ tech blog](https://tech-blog.monotaro.com/entry/2019/03/14/061025)
+
+## [OSS Gate東京ワークショップ2019-01-26](https://oss-gate.doorkeeper.jp/events/85222)
+  * [OSS Gate Workshop Tokyo@Sutudy Sapuri LabAdd Star - ただのにっき(2019-01-26)](http://sho.tdiary.net/20190126.html)
+  * [OSS Gate東京ワークショップ2019-01-26 にサポーターとして参加した - @kyanny's blog](https://blog.kyanny.me/entry/2019/01/26/182532)
+
+## [OSS Gate Fukuoka 2019-01-15](https://oss-gate-fukuoka.connpass.com/event/111602/)
+  * [OSS Gate Fukuoka に参加した - blog.seike460.com](https://blog.seike460.com/2019/01/21/oss_gate/)
+  * [OSS Gate Fukuokaを開催しました。 - blog.kumanoryo.tech](https://blog.kumanoryo.tech/entry/2019/01/20/204401)
+  * [OSS Gate Fukuokaにサポーターとして参加して感じたこと - つばろぐ](https://tsubalog.hatenablog.com/entry/2019/01/18/073000)
+  * [OSS Gateにサポーターとして参加した - THINKING MEGANE](https://blog.monochromegane.com/blog/2019/01/17/oss-gate-as-supporter/)
+
 ## [OSS Gate東京ワークショップ2018-10-27](https://oss-gate.doorkeeper.jp/events/76041)
   * [OSS Gate東京ワークショップ＠GMO Yours - ただのにっき(2018-10-27)](http://sho.tdiary.net/20181027.html#p01)
   * [OSS Gateにサポーターとして参加しました。 - よしたく blog](https://yoshitaku-jp.hatenablog.com/entry/2018/10/29/225211)
