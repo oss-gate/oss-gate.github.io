@@ -64,6 +64,7 @@ OSS Gateコミュニティではやりとりに[Gitter](https://gitter.im/oss-ga
 * [東京](https://gitter.im/oss-gate/tokyo)
 * [関西](https://gitter.im/oss-gate/kansai): 主に大阪、京都
 * [札幌](https://gitter.im/oss-gate/sapporo)
+* [広島](https://gitter.im/oss-gate/hiroshima)
 
 上記に自分の地域のルームがなかったら、[ルームの一覧](https://gitter.im/oss-gate/home)から探してみてください。
 
