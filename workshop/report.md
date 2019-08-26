@@ -35,7 +35,7 @@ OSS Gateワークショップの感想やレポートを見つけたら[この�
   * [OSS Gate東京ワークショップ2018-09-08に行ってきた](https://qiita.com/Mizmiz1229Xx/items/ee2341f7d2933132e05a)
   * [OSS Gate東京ワークショップ2018-09-08にサポーターで参加した - 横あるき](https://kuno.kdns.info/2018/09/oss-gate-workshop-2018-09-08/)
 
-## [OSS Gate京都ワークショップ 2019-06-24](https://oss-gate.doorkeeper.jp/events/73313)
+## [OSS Gate京都ワークショップ 2018-06-24](https://oss-gate.doorkeeper.jp/events/73313)
   * [OSS Gate 京都ワークショップを開催しました](https://masayuki14.hatenablog.com/entry/2018/06/30/180000)
 
 ## OSS Gate ワークショップ in Fujitsu 2018-05-29
