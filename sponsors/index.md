@@ -296,6 +296,18 @@ Ruby, JAVA, PHP等のWebを中心とした技術を用いて、システム・�
 そこから、「面白さ」「変化への強さ」「迅速さ」「自由度」「独創性」などの想いを込めて「Spookies」と名付けました。
 そんな私達は、「透明性」あるOSSとそれらに関わる人々をOSS Gateを通して応援しています。
 
+## 東京Ruby会議11実行委員会 {#tokyork11}
+
+[東京Ruby会議11実行委員会](http://regional.rubykaigi.org/tokyo11/) TODO：ロゴ
+
+OSS Gate東京ワークショップの会場を提供しています。
+
+以下は会場を提供したイベントです。
+
+- [OSS Gate東京ワークショップ2016-05-28](https://oss-gate.doorkeeper.jp/events/38550)
+
+東京Ruby会議11は、プログラムの実装技術について議論するカンファレンスです。技術的好奇心を改めて呼び起こし、プログラミングの難しさ、そして楽しさを再発見する場を目指します。
+
 ## ピクシブ株式会社 {#pixiv}
 
 ![[ピクシブ株式会社](https://www.pixiv.co.jp/)](logos/pixiv.svg)
@@ -321,18 +333,6 @@ OSS Gate大阪ワークショップの会場を提供しています。
 - [OSS Gate大阪ワークショップ2017-02-25](https://oss-gate.doorkeeper.jp/events/56141)
 
 TODO（会社説明とか宣伝文句）
-
-## 東京Ruby会議11実行委員会 {#tokyork11}
-
-[東京Ruby会議11実行委員会](http://regional.rubykaigi.org/tokyo11/) TODO：ロゴ
-
-OSS Gate東京ワークショップの会場を提供しています。
-
-以下は会場を提供したイベントです。
-
-- [OSS Gate東京ワークショップ2016-05-28](https://oss-gate.doorkeeper.jp/events/38550)
-
-東京Ruby会議11は、プログラムの実装技術について議論するカンファレンスです。技術的好奇心を改めて呼び起こし、プログラミングの難しさ、そして楽しさを再発見する場を目指します。
 
 ## YassLab 株式会社 {#yasslab}
 
