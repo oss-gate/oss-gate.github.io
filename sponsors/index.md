@@ -336,7 +336,7 @@ TODO（会社説明とか宣伝文句）
 
 ## 株式会社マネーフォワード {#moneyforward}
 
-[![YassLab 株式会社](https://corp.moneyforward.com/assets/news/img/logo_mf.png)](https://corp.moneyforward.com)
+[![株式会社マネーフォワード](https://corp.moneyforward.com/assets/news/img/logo_mf.png)](https://corp.moneyforward.com)
 
 OSS Gate京都ワークショップを開催しています。
 
