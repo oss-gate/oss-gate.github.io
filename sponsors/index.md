@@ -334,6 +334,18 @@ OSS Gate大阪ワークショップの会場を提供しています。
 
 TODO（会社説明とか宣伝文句）
 
+## 株式会社マネーフォワード {#moneyforward}
+
+[![YassLab 株式会社](https://corp.moneyforward.com/assets/news/img/logo_mf.png)](https://corp.moneyforward.com)
+
+OSS Gate京都ワークショップを開催しています。
+
+以下は開催したイベントです。
+
+- [OSS Gate京都ワークショップ2019-08-24](https://oss-gate.doorkeeper.jp/events/94677)
+
+2012年5月に設立。「お金を前へ。人生をもっと前へ。」というミッションを掲げ、すべてのお金の課題解決を目指すFintech企業。主に、個人向けお金の見える化サービス『マネーフォワード ME』やビジネス向けクラウドサービス『マネーフォワード クラウドシリーズ』などを提供。2015年のFintech研究所をきっかけに、Fintech産業の振興や政策提言への働きかけにも貢献するほか、資本業務提携、API連携など金融機関との協業実績も多数ある。2017年9月に東京証券取引所マザーズ市場に上場。
+
 ## YassLab 株式会社 {#yasslab}
 
 [![YassLab 株式会社](logos/yasslab.png)](https://yasslab.jp/)
