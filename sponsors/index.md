@@ -346,6 +346,20 @@ OSS Gate京都ワークショップを開催しています。
 
 2012年5月に設立。「お金を前へ。人生をもっと前へ。」というミッションを掲げ、すべてのお金の課題解決を目指すFintech企業。主に、個人向けお金の見える化サービス『マネーフォワード ME』やビジネス向けクラウドサービス『マネーフォワード クラウドシリーズ』などを提供。2015年のFintech研究所をきっかけに、Fintech産業の振興や政策提言への働きかけにも貢献するほか、資本業務提携、API連携など金融機関との協業実績も多数ある。2017年9月に東京証券取引所マザーズ市場に上場。
 
+## Pepper アトリエ秋葉原 with SoftBank
+
+[![Pepper atelier](logos/pepper_atelier.jpg)](https://pepper-atelier-akihabara.jp/)
+
+OSS Gate東京ワークショップの会場を提供しています。
+
+以下は会場を提供したイベントです。
+
+[OSS Gate東京ワークショップ2019-12-14](https://oss-gate.doorkeeper.jp/events/92469)
+
+「Pepper アトリエ秋葉原 with SoftBank」はソフトバンクロボティクス株式会社が運営するPepper の開発を体験できるスペースです。
+
+「アトリエ秋葉原」ではデベロッパーやクリエーターの方がロボアプリ開発のためにご利用できる Pepper を数台ご用意し、無料で体験やロボアプリの動作確認などができます。
+
 ## YassLab 株式会社 {#yasslab}
 
 [![YassLab 株式会社](logos/yasslab.png)](https://yasslab.jp/)
