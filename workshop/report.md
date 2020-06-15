@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## OSS Gate ワークショップ in MonotaRO 2019-12-02
+  * [社内OSS Gateワークショップ vol.5 を開催しました！](https://tech-blog.monotaro.com/entry/2020/01/14/115048)
+
 ## [OSS Gate京都ワークショップ 2019-08-24](https://oss-gate.doorkeeper.jp/events/94677)
   * [OSS Gate 京都ワークショップを開催しました](https://masayuki14.hatenablog.com/entry/2019/08/26/OSS_Gateワークショップ京都を開催しました)
 
