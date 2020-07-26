@@ -17,7 +17,9 @@ Font Awesome licensed under SIL OFL 1.1 http://fontawesome.io/
 
 ## ライセンスについて
 
-この作品は [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa] の下に提供されています。
+Copyright 2015-2020 OSS Gate
+
+このサイトのライセンスは [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa] です。
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
