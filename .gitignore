@@ -1,7 +1,8 @@
 /.bundle
+/.jekyll-cache
+/.jekyll-metadata
 /.ruby-version
+/.sass-cache
 /Gemfile.lock
+/_site
 /vendor
-_site
-.sass-cache
-.jekyll-metadata
