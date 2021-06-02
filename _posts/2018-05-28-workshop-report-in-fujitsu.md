@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "OSS Gate のワークショップをFujitsuで再び実施してみた（開催レポート）"
-date:   2018-05-29 00:00:00 +0900
 categories: report workshop
 ---
 

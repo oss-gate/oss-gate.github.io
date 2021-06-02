@@ -10,6 +10,8 @@ url: "http://oss-gate.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  oss-gate
 
+timezone: UTC
+
 # Build settings
 markdown: kramdown
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]

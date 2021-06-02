@@ -45,7 +45,7 @@ OSS Gateワークショップの感想やレポートを見つけたら[この�
   * [OSS Gate 京都ワークショップを開催しました](https://masayuki14.hatenablog.com/entry/2018/06/30/180000)
 
 ## OSS Gate ワークショップ in Fujitsu 2018-05-29
-  * [OSS Gate のワークショップをFujitsuで再び実施してみた（開催レポート）]({{ site.baseurl }}{% post_url 2018-05-29-workshop-report-in-fujitsu %})
+  * [OSS Gate のワークショップをFujitsuで再び実施してみた（開催レポート）]({{ site.baseurl }}{% post_url 2018-05-28-workshop-report-in-fujitsu %})
 
 ## OSS Gate ワークショップ in MonotaRO 2018-05-28, 2018-05-29
   * [201805社内OSS Gateワークショップレポート \| モノタロウ tech blog](http://tech-blog.monotaro.com/entry/2018/06/08/144639)

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "OSS Gateワークショップ2016-06-11開催レポート"
-date:   2016-06-11 18:00:00 +0900
 categories: report workshop
 ---
 

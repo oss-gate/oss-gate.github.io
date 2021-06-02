@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "OSS Gateを開催するには"
-date:   2018-05-18 00:00:00 +0900
+title:  "OSS Gateワークショップを開催するには"
 categories: announce update
 ---
 
-## OSS Gateは、自由に開催することができます
+## OSS Gateワークショップは自由に開催することができます
 
 OSS開発に参加する「入り口」を提供する**OSS Gate**は、OSS開発へのフィードバックを実際に体験するワークショップを開催しています。このワークショップを自分たちで開催しませんか！
 

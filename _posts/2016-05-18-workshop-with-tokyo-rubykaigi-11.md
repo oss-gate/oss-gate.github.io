@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "2016年5月28日開催のOSS Gateワークショップは東京Ruby会議11と同建物で開催"
-date:   2016-05-18 16:02:00 +0900
 categories: announce update
 ---
 
