@@ -38,18 +38,16 @@ Debianのローカルコミュニティーとして毎月1回 [東京エリア�
 
 そこで、[募集要項](https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/)を詰めた上で、7月17日のDebian勉強会でこれから実施しようとしている取り組みの紹介をしました。
 
-<div class="rabbit-slide">
-  <iframe src="https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-oss-gate-onboarding-20210717/viewer.html"
-          width="640" height="404"
-          frameborder="0"
-          marginwidth="0"
-          marginheight="0"
-          scrolling="no"
-          style="border: 1px solid #ccc; border-width: 1px 1px 0; margin-bottom: 5px"
-          allowfullscreen> </iframe>
-  <div style="margin-bottom: 5px">
-    <a href="https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-oss-gate-onboarding-20210717/" title="OSS Gateオンボーディング - Debianプロジェクトを題材にした取り組みの紹介"></a>
-  </div>
+<iframe src="https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-oss-gate-onboarding-20210717/viewer.html"
+        width="640" height="524"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border: 1px solid #ccc; border-width: 1px 1px 0; box-sizing: content-box; margin-bottom: 5px"
+        allowfullscreen> </iframe>
+<div style="margin-bottom: 5px">
+  <a href="https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-oss-gate-onboarding-20210717/" title="OSS Gateオンボーディング - Debianプロジェクトを題材にした取り組みの紹介">OSS Gateオンボーディング - Debianプロジェクトを題材にした取り組みの紹介</a>
 </div>
 
 また、Debian/Ubuntu関連に興味を持っている人ならメーリングリストに登録しているだろうということで、メーリングリストにて募集の告知を行いました。
