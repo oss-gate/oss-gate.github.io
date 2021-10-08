@@ -168,7 +168,7 @@ Goパッケージングではdh-make-golangコマンドを使うのですが、�
   
 slack-termはITPまで、その他の依存ライブラリーは一部Debian unstableにすでに入った状態になりました。
 
-![DDPOのスクリーンショット]({{ site.baseurl }}/images/posts/2021-10-08-on-boarding-2021-08-kenhys/20211006_qa.png)
+![DDPOのスクリーンショット]({{ "/images/posts/2021-10-08-on-boarding-2021-08-kenhys/20211006_qa.png" | relative_url }})
 
 毎回のオンボーディングでやることなどはissueを作成して記録を残していました。作業状況を確認して、その日にやろうとしていることを共有[^sharing-todo]するためです。
 
