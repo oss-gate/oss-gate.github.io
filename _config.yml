@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
   OSS開発に未参加の人を参加する人へ、少し参加したことがある人を継続的に参加する人へ。そうやってOSS開発に参加する人を継続的に増やしていく。それが「OSS Gate」の目的です。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://oss-gate.github.io" # the base hostname & protocol for your site
+url: "https://oss-gate.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  oss-gate
 
