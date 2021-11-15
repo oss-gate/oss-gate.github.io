@@ -11,6 +11,17 @@ GitHub pages（jekyll）を使用。markdownファイルとhtmlファイルを�
 
 cssをsassで少し足している。
 
+## ローカル環境でのプレビュー
+
+```shell
+$ bundle install --path vendor/
+$ bundle exec jekyll serve --drafts --livereload --incremental --force-polling
+```
+
+* `--drafts` は下書き状態の記事を強制的にレンダリングするために必要。
+* `--force-polling` は[Windows 10でのWSL1での既知の不具合](https://talk.jekyllrb.com/t/jekyll-serve-hangs-under-wsl-requires-restart-to-kill-process/5424)の回避に必要。それ以外の環境では省略してもよい。
+
+
 ## ICONについて
 
 Font Awesome licensed under SIL OFL 1.1 http://fontawesome.io/
