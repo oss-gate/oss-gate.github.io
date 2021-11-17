@@ -29,6 +29,15 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 といったメリットがあるので、ぜひ時間をとってシナリオに目を通してください。
 
+シナリオには要約的な情報が書かれていますが、それぞれの内容をより詳しく把握したい場合には、OSS Gateワークショップにサポーター参加した人がよく説明する内容を文章の形にまとめた、[「これでできる！ はじめてのOSSフィードバックガイド」という本](https://github.com/oss-gate/first-feedback-guidebook)も参照してみるとよいでしょう。
+（紙書籍、電子書籍などの販売もありますが、原稿はすべて公開されていて、無料で読めます。）
+ワークショップ実施時には、特に以下の章が参考になるでしょう。
+
+* [ビギナー参加者の方の普段使いのソフトウェアの中からOSSを見つける方法](https://github.com/oss-gate/first-feedback-guidebook/blob/master/chapters/oss.md)
+* [フィードバックする内容の見つけ方・考え方（つまずきの見つけ方）](https://github.com/oss-gate/first-feedback-guidebook/blob/master/chapters/what.md)
+* [遭遇したつまずきを報告の形式に整理するときのまとめ方](https://github.com/oss-gate/first-feedback-guidebook/blob/master/chapters/how.md)
+* [フィードバック先の探し方・選び方](https://github.com/oss-gate/first-feedback-guidebook/blob/master/chapters/where.md)
+
 ## 3. スライドを使って説明の練習をしてみよう！
 
 具体的には以下のような手順でやってみましょう。
@@ -57,9 +66,16 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 ### 動画で実際の進行をみてみよう！
 
+文章を読む以外に、動画の形でもワークショップの様子を見ることができます。
+実際のワークショップで説明している様子を収めたものなので、ワークショップの雰囲気や進行役が喋っていることがよく分かり、参考になるはずです。
+
+オフライン開催時の様子の動画：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqQn4c5vmS0?showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
 
-実際のワークショップで説明している様子を収めたものなので、ワークショップの雰囲気や進行役が喋っていることがよく分かり、参考になるはずです。
+OSS Gateオンラインワークショップ（2021年6月12日開催分）の配信アーカイブ：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pWxC9KdxdrQ?start=1731" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+配信アーカイブはイベント内容そのものなので、長さが6時間あります。集中して見るのは大変なので、動画の下の⚙（歯車アイコン）から「再生速度」→「2」を選択するなどして再生速度を上げ、作業のBGM代わりに流し見されることをお薦めします。
 
 ### Gitterで人に相談してみよう！
 
