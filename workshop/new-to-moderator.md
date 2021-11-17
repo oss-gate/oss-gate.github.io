@@ -11,9 +11,14 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 スライドはいくつかの方法で表示することができます。自分が使いやすいと思う方法を選びましょう。
 
-* [ソース](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario.rab)：ローカルで[Rabbit](https://rabbit-shocker.org/)を使って表示する
-* [Rabbit Slide Show](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/)：Webブラウザーで表示する（Rabbitを用意する必要はない）
-* [PDF](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/scenario.pdf)：ローカルでPDFビューアーを使って表示する
+* オフライン開催用スライド
+  * [ソース](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario/scenario.rab)：ローカルで[Rabbit](https://rabbit-shocker.org/)を使って表示する
+  * [Rabbit Slide Show](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/) / [オンライン開催用](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial-online/)：Webブラウザーで表示する（Rabbitを用意する必要はない）
+  * [PDF](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial/scenario.pdf)：ローカルでPDFビューアーを使って表示する
+* オンライン開催用スライド
+  * [ソース](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario-online/scenario.rab)：ローカルで[Rabbit](https://rabbit-shocker.org/)を使って表示する
+  * [Rabbit Slide Show](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial-online/)：Webブラウザーで表示する（Rabbitを用意する必要はない）
+  * [PDF](https://slide.rabbit-shocker.org/authors/oss-gate/workshop-tutorial-online/scenario.pdf)：ローカルでPDFビューアーを使って表示する
 
 ## 2. シナリオを読もう！
 
