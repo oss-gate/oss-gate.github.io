@@ -22,7 +22,7 @@ OSS Gateワークショップで進行役をすることになった時に、あ
 
 ## 2. シナリオを読もう！
 
-ワークショップの[シナリオ](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario.md)には、開催する目的や大事にしたいこと、開催当日の各時間帯で行うことなどが網羅的に書かれています。
+ワークショップの[シナリオ](https://github.com/oss-gate/workshop/blob/master/tutorial/scenario/scenario.rab)には、開催する目的や大事にしたいこと、開催当日の各時間帯で行うことなどが網羅的に書かれています。
 
 * 当日の進行の段取りがシミュレートできる
 * スライドに書いてあることで大事なところはシナリオにも書いてあるので、どこが大事なポイントか分かりやすくなる
