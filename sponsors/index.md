@@ -362,17 +362,18 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 ## YassLab 株式会社 {#yasslab}
 
-[![YassLab 株式会社](logos/yasslab.png)](https://yasslab.jp/)
+[![YassLab 株式会社](logos/yasslab.png)](https://yasslab.jp/ja/)
 
 動画の収録と編集、および[Doorkeeperスポンサー](https://yasslab.jp/ja/doorkeeper/)としてOSS Gateをサポートしています。
 
 以下は公開した動画の一覧です (最新順)。
 
-- [OSS Gate 東京ワークショップ (2017-07-29) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6gIvt3sM09REYvLYkRRkuaS)
-- [OSS Gate Meetup (2017-07-13) の動画](https://www.youtube.com/watch?v=vjT2BbHzlUM)
-- [OSS Gate 東京ワークショップ (2017-06-29) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6iIOFwVrosAvriRxRFCbFap)
-- [OSS Gate 大阪ワークショップ (2017-02-25) の動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6jpvMiXuTHdvSzlB_9KDEWk)
+- [OSS Gate トップページの PV (2022-09-21) 動画](https://github.com/oss-gate/oss-gate.github.io/pull/111)
+- [OSS Gate 東京ワークショップ (2017-07-29) 動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6gIvt3sM09REYvLYkRRkuaS)
+- [OSS Gate 東京ミートアップ@ESM (2017-07-13) 動画](https://www.youtube.com/watch?v=vjT2BbHzlUM)
+- [OSS Gate 東京ワークショップ (2017-06-29) 動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6iIOFwVrosAvriRxRFCbFap)
+- [OSS Gate 大阪ワークショップ (2017-02-25) 動画](https://www.youtube.com/playlist?list=PLg41HKRyxE6jpvMiXuTHdvSzlB_9KDEWk)
 
-東京と沖縄を拠点としたリモートチームです。[Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)を制作・運営しながら、[ドキュメント翻訳を自動化する仕組み](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs)の研究開発を行ったり、その過程で得られた知見を[GitHub上から公開](https://github.com/yasslab)しています。
+[Ruby on Railsチュートリアル](https://railstutorial.jp/)や[Ruby on Railsガイド](https://railsguides.jp/)を運営しているチームです。全国200カ所以上ある子どものためのプログラミング道場「[CoderDojo](http://coderdojo.jp/)」のWebサイト ([coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)) も開発しています。
 
-また、上記で得られた経験と知識をベースに[Ruby/Railsの開発支援サービス](https://yasslab.jp/ja/agile)も行っています。Ruby/Railsの開発でお困りのことや、事業をもっと早く進めたいときがあれば、ご連絡ください ;)
+Ruby/Railsに関する[note記事](https://note.com/YassLab)や[YouTube動画](https://www.youtube.com/YassLab)も公開しているのでぜひ遊びに来てください! 😆✨
