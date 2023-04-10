@@ -17,7 +17,7 @@ permalink: /about/
 - ワークショップの様子や内容を知りたい：[ワークショップレポート]({{ site.baseurl }}/workshop/report.html)を読んでみてください。
 - ワークショップにビギナーとして参加したい：[Doorkeeper](https://oss-gate.doorkeeper.jp/)でビギナーとして申し込んでください。
 - ワークショップをサポーターとして手伝いたい：[Doorkeeper](https://oss-gate.doorkeeper.jp/)でサポーターとして申し込んでください。
-- OSS Gateの活動を手伝いたい、サポーター以外の方法で支援したい場合：[Gitter](https://gitter.im/oss-gate/general/)で聞いてみてください。
+- OSS Gateの活動を手伝いたい、サポーター以外の方法で支援したい場合：[Gitter](https://gitter.im/oss-gate/general)で聞いてみてください。
 
 
 ## OSS Gateを始めた理由
