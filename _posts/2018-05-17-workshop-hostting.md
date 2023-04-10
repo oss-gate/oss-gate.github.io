@@ -13,7 +13,7 @@ OSS開発に参加する「入り口」を提供する**OSS Gate**は、OSS開�
 - [ワークショップレポートを読む](https://oss-gate.github.io/workshop/report.html)
 - [OSS Gateについて](https://oss-gate.github.io/about/)
 
-興味があれば、[Gitter - oss-gate/general](https://gitter.im/oss-gate/general/)で、相談してみてください。
+興味があれば、[Gitter - oss-gate/general](https://gitter.im/oss-gate/general)で、相談してみてください。
 
 
 ## OSS Gateの主な活動形式
@@ -27,7 +27,7 @@ OSS開発に参加する「入り口」を提供する**OSS Gate**は、OSS開�
 
 ## 開催手順
 
-1. [Gitter - oss-gate/general](https://gitter.im/oss-gate/general/)で、開催について相談・意思表示する
+1. [Gitter - oss-gate/general](https://gitter.im/oss-gate/general)で、開催について相談・意思表示する
 2. 日時・場所を調整する
 3. [Doorkeeper](https://oss-gate.doorkeeper.jp/)で告知する(DoorKeeperで主催者となっているメンバーに相談する)
 4. 開催する
@@ -61,7 +61,7 @@ OSS開発に参加する「入り口」を提供する**OSS Gate**は、OSS開�
 
 サポーター数 >= ビギナー数 / 2 が、1つの目安になると思います。
 
-サポーターが十分に集まらない場合、[Gitter - oss-gate/general](https://gitter.im/oss-gate/general/)で相談してもらうと、お手伝いできる人が見つかるかも知れません。
+サポーターが十分に集まらない場合、[Gitter - oss-gate/general](https://gitter.im/oss-gate/general)で相談してもらうと、お手伝いできる人が見つかるかも知れません。
 
 
 ### ワークショップには、どのくらいの時間がかかりますか
@@ -110,4 +110,4 @@ OSS開発に参加する「入り口」を提供する**OSS Gate**は、OSS開�
 
 ### この他に、質問や問い合わせ・フィードバックをしたい場合、どうすれば良いですか
 
-[oss-gate/general - Gitter](https://gitter.im/oss-gate/general/)で、相談してみてください。不足している情報があるかも知れないので、フィードバックをもらえるとありがたいです。
+[oss-gate/general - Gitter](https://gitter.im/oss-gate/general)で、相談してみてください。不足している情報があるかも知れないので、フィードバックをもらえるとありがたいです。
