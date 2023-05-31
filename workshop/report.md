@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate オンライン ワークショップ 2022-01-29](https://oss-gate.doorkeeper.jp/events/125414)
+  * [OSS gateにビギナーとして参加しました！](https://ikmbear.hatenablog.com/entry/20220130/1643509805)
+
 ## OSS Gate ワークショップ in PyCon JP 2020 Sprint
   * [PyCon JP 2020でOSS Gateワークショップを開催しました - Satoryu’s Website](https://satoryu.github.io/blog/2020/09/02/oss-gate-workshop-in-pycon_jp-2020-sprint.html)
 
