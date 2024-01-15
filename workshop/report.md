@@ -4,6 +4,7 @@ title:  ワークショップレポート
 ---
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
+
 ## [PHP Lovers Meetup vol.3 + OSS Gate in 北の大地](https://php-lovers-meetup.connpass.com/event/299864/)
   * [OSS Gateワークショップ参加レポート](https://zenn.dev/kou_hikaru/articles/38bdb7023570e5)
 
