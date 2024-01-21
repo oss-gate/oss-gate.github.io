@@ -15,3 +15,7 @@ timezone: UTC
 # Build settings
 markdown: kramdown
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]
+sass:
+  # This can be removed when the following issue is fixed.
+  # https://github.com/jekyll/minima/issues/709
+  quiet_deps: true
