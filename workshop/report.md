@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [ゆるい TechRAMEN 2024 Conference 後日祭 + OSS Gate](https://asahikawa.connpass.com/event/316242/)
+  * [ゆるい TechRAMEN 2024 Conference 後日祭 + OSS Gateに参加しました！](https://note.com/_tetrapod/n/n0dc39e9e6da4)
+
 ## [OSS Gateオンラインワークショップ2024-01-27](https://oss-gate.doorkeeper.jp/events/161082)
   * [自分の中にある開発障壁を取っ払いたくてOSS-Gateに参加した](https://note.com/012xx_/n/nfbe044ec391e?sub_rt=share_pw)
 
