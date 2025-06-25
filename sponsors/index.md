@@ -362,7 +362,7 @@ OSS Gate東京ワークショップの会場を提供しています。
 
 ## レアゾンヒューマンインタラクション研究所
 
-[![レアゾンHI研究所](logos/reazonhilab.png)](https://hilab.jp/)
+[![レアゾンHI研究所](logos/reazonhilab_logo.png)](https://hilab.jp/)
 
 OSS Gate東京ワークショップの会場を提供しています。
 
