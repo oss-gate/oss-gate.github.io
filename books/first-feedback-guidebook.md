@@ -1,6 +1,13 @@
 ---
 layout: page
 title:  これでできる！ はじめてのOSSフィードバックガイド
+description: "OSSに対してはじめてフィードバックを行う人のための実践的ガイドブックです。"
+schema_type: Book
+book:
+  author: "OSS Gate"
+  publisher: "OSS Gate"
+  in_language: "ja"
+  cover_image: "/images/books/first-feedback-guidebook.png"
 ---
 
 <img src="covers/first-feedback-guidebook.png" alt="" class="book-cover">
