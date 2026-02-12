@@ -5,6 +5,9 @@ title:  ワークショップレポート
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gateオンラインワークショップ2026-01-31](https://oss-gate.doorkeeper.jp/events/189259)
+  * [OSS Gateワークショップにビギナーとして参加しました🐣](https://ama-tech.hatenablog.com/oss-gate-20260131)
+
 ## [OSS Gateオンラインワークショップ2025-07-26](https://oss-gate.doorkeeper.jp/events/183231)
   * [OSS Gateオンラインワークショップに参加してOSSにPRを出した](https://sugiwe.hatenablog.jp/entry/oss-gate-online-workshop)
 
