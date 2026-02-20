@@ -5,6 +5,10 @@ title:  ワークショップレポート
 
 OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
 
+## [OSS Gate東京ワークショップ2026-02-13](https://optim.connpass.com/event/378721/)
+
+  * [OSS Gateワークショップを東京でオフライン開催しました！ #oss_gate - 2026-02-20 - ククログ](https://www.clear-code.com/blog/2026/2/20/oss-gate-workshop-offline-optim-report.html)
+
 ## [OSS Gateオンラインワークショップ2026-01-31](https://oss-gate.doorkeeper.jp/events/189259)
   * [OSS Gateワークショップにビギナーとして参加しました🐣](https://ama-tech.hatenablog.com/oss-gate-20260131)
 
