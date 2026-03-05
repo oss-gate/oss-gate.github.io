@@ -9,6 +9,7 @@ OSS Gateワークショップの感想やレポートを見つけたら[この�
 
   * [OSS Gateワークショップを東京でオフライン開催しました！ #oss_gate - 2026-02-20 - ククログ](https://www.clear-code.com/blog/2026/2/20/oss-gate-workshop-offline-optim-report.html)
   * [OSS Gate ワークショップに参加してきました！](https://hogarakaryo.hatenablog.com/entry/2026/02/21/153657)
+  * [OSS Gateワークショップにサポーターとして参加しました🐥 - あまブログ](https://ama-tech.hatenablog.com/oss-gate-20260213)
 
 ## [OSS Gateオンラインワークショップ2026-01-31](https://oss-gate.doorkeeper.jp/events/189259)
   * [OSS Gateワークショップにビギナーとして参加しました🐣](https://ama-tech.hatenablog.com/oss-gate-20260131)
