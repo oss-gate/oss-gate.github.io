@@ -3,7 +3,14 @@ layout: page
 title:  ワークショップレポート
 ---
 
-OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/master/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
+OSS Gateワークショップの感想やレポートを見つけたら[このページ](https://github.com/oss-gate/oss-gate.github.io/blob/main/workshop/report.md)への修正プルリクエストを出していただけると助かります。もちろん[Issue](https://github.com/oss-gate/oss-gate.github.io/issues)の追加でもかまいません。
+
+## [Rubyエコシステム開発入門ワークショップ2026-08](https://rubyassociation.doorkeeper.jp/events/196711)
+
+  * [Rubyエコシステム開発入門ワークショップ2026-08を開催しました！ #rubyws #oss_gate - ククログ](https://www.clear-code.com/blog/2026/9/1/ruby-ecosystem-development-introduction-workshop-2026-08.html)
+  * [OSSにコントリビュートするということ 〜Rubyエコシステム開発入門ワークショップ 参加レポート〜 - giftee Tech Blog](https://tech.giftee.co.jp/entry/2026/08/17/085921)
+  * [【参加レポ】Rubyエコシステム開発入門ワークショップ](https://zenn.dev/namerouboy/articles/02195a7206c766)
+  * [Rubyエコシステム開発入門ワークショップ参加レポート - NaCl Blog](https://blog.netlab.jp/2026/08/13/ruby-workshop.html)
 
 ## [OSS Gate東京ワークショップ2026-02-13](https://optim.connpass.com/event/378721/)
 
