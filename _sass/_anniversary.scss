@@ -1,0 +1,176 @@
+/**
+ * 10th anniversary page
+ */
+.anniversary {
+    h2 {
+        margin-top: $spacing-unit * 1.5;
+    }
+
+    [hidden] {
+        display: none !important;
+    }
+}
+
+.anniversary-lead {
+    color: $grey-color-dark;
+}
+
+.anniversary-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 1px;
+    background: $grey-color-light;
+    border: 1px solid $grey-color-light;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: $spacing-unit;
+}
+
+.anniversary-stat {
+    background: #fff;
+    padding: 18px 18px 16px;
+}
+
+.anniversary-num {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.2;
+    font-variant-numeric: tabular-nums;
+
+    small {
+        font-size: 15px;
+        margin-left: 4px;
+    }
+}
+
+.anniversary-label {
+    font-weight: 700;
+}
+
+.anniversary-note {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.anniversary-chart {
+    position: relative;
+    border: 1px solid $grey-color-light;
+    border-radius: 8px;
+    padding: 20px 16px 12px;
+    background: #fff;
+
+    svg {
+        display: block;
+        width: 100%;
+        height: auto;
+        overflow: visible;
+    }
+
+    text {
+        fill: $grey-color-dark;
+        font-size: 12px;
+    }
+
+    .value {
+        fill: $text-color;
+        font-weight: 700;
+        font-size: 13px;
+    }
+
+    .grid {
+        stroke: $grey-color-light;
+        stroke-width: 1;
+    }
+
+    .marker {
+        stroke: $grey-color;
+        stroke-dasharray: 3 3;
+    }
+
+    .bar {
+        fill: $brand-color;
+    }
+
+    .bar.partial {
+        opacity: 0.55;
+    }
+
+    .hit {
+        fill: transparent;
+    }
+
+    g.on .bar {
+        filter: brightness(1.12);
+    }
+}
+
+.anniversary-tip {
+    position: absolute;
+    pointer-events: none;
+    background: $text-color;
+    color: #fff;
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 8px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+    transform: translate(-50%, -100%);
+}
+
+.anniversary-caption {
+    font-size: $small-font-size;
+    color: $grey-color;
+    margin-top: 8px;
+}
+
+.anniversary-details {
+    margin-bottom: $spacing-unit;
+
+    summary {
+        cursor: pointer;
+        font-weight: 700;
+    }
+}
+
+.anniversary-table-scroll {
+    overflow-x: auto;
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        font-variant-numeric: tabular-nums;
+    }
+
+    th, td {
+        padding: 4px 10px;
+        border-bottom: 1px solid $grey-color-light;
+        text-align: right;
+        white-space: nowrap;
+    }
+
+    th:first-child, td:first-child {
+        text-align: left;
+    }
+}
+
+.anniversary-facts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 0 $spacing-unit;
+}
+
+.anniversary-fact {
+    min-width: 0;
+
+    h3 {
+        margin-bottom: 4px;
+    }
+}
+
+.anniversary-method {
+    margin-top: $spacing-unit;
+    padding-top: $spacing-unit * 0.5;
+    border-top: 1px solid $grey-color-light;
+    font-size: $small-font-size;
+    color: $grey-color;
+}

@@ -1,0 +1,136 @@
+---
+layout: page
+title: OSS Gate 10年のあゆみ
+permalink: /anniversaries/10th/
+---
+
+<div class="anniversary">
+  <p class="anniversary-lead">
+    2015年12月の「<a href="https://oss-gate.doorkeeper.jp/events/33335">OSS Gate を立ち上げよう</a>」から10年。「OSS開発に参加する人を継続的に増やす」ためにワークショップを続けてきました。数字でふりかえります。
+  </p>
+
+  <div class="anniversary-stats">
+    <div class="anniversary-stat"><div class="anniversary-num">123<small>回</small></div><div class="anniversary-label">ワークショップ開催</div><div class="anniversary-note">2016年1月〜2026年9月</div></div>
+    <div class="anniversary-stat"><div class="anniversary-num">1,360<small>人</small></div><div class="anniversary-label">延べ参加者</div><div class="anniversary-note">ビギナー＋サポーター（約）</div></div>
+    <div class="anniversary-stat"><div class="anniversary-num">726<small>件</small></div><div class="anniversary-label">作業ログ</div><div class="anniversary-note">ビギナーがGitHubに残した記録</div></div>
+    <div class="anniversary-stat"><div class="anniversary-num">982<small>件</small></div><div class="anniversary-label">アンケート回答</div><div class="anniversary-note">ビギナー599・サポーター383</div></div>
+  </div>
+
+  <h2>年ごとのワークショップ延べ参加者数</h2>
+
+  <div class="anniversary-chart" id="anniversary-chart"></div>
+  <p class="anniversary-caption">2026年は9月までの集計なので薄く表示しています。2020年からはオンライン開催が中心になりました。</p>
+
+  <details class="anniversary-details">
+    <summary>表で見る</summary>
+    <div class="anniversary-table-scroll">
+      <table id="anniversary-table">
+        <thead><tr><th>年</th><th>開催回数</th><th>延べ参加者</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </details>
+
+  <h2>ワークショップのほかにも</h2>
+
+  <div class="anniversary-facts">
+    <div class="anniversary-fact">
+      <h3>全国とオンラインで</h3>
+      <p>東京から始まり、札幌・大阪・京都・広島・福岡・旭川へ。2020年以降はオンラインワークショップを39回開催し、延べ272人が参加しました。</p>
+    </div>
+    <div class="anniversary-fact">
+      <h3>企業・コミュニティと一緒に</h3>
+      <p>ピクシブ（Mastodon）、富士通、MonotaRO、アカツキ、freee、PHPカンファレンス、PyCon JP、高専、京大熊野寮など、多くの場所でも開催しました。</p>
+    </div>
+    <div class="anniversary-fact">
+      <h3>ミートアップ・ふりかえり</h3>
+      <p>ミートアップ30回、ふりかえり18回、もくもく会・フォローアップ11回も開催しました。</p>
+    </div>
+    <div class="anniversary-fact">
+      <h3>ビギナーからサポーターへ</h3>
+      <p>ビギナーとしてもサポーターとしてもアンケートに回答したアカウントが41あります。参加した人が次の人を迎える側に回っています。</p>
+    </div>
+  </div>
+
+  <div class="anniversary-method">
+    <p><strong>集計方法</strong>（2026-10-03時点）</p>
+    <ul>
+      <li>開催回数・延べ参加者：<a href="https://oss-gate.doorkeeper.jp/events/past">Doorkeeper</a>のワークショップの参加者数（中止回は除く）に、Doorkeeperを使わなかった回（企業・カンファレンス共催など29回）は<a href="https://github.com/oss-gate/workshop/tree/main/tutorial/retrospectives">アンケート</a>の回答数を足しました。後者は回答者数なので実際の参加者より少なめです。Doorkeeperの参加者数は当日欠席を含む場合があります。</li>
+      <li>アンケート回答：<a href="https://github.com/oss-gate/workshop/tree/main/tutorial/retrospectives">tutorial/retrospectives/</a>の<code>beginner-*.yaml</code>・<code>supporter-*.yaml</code>の数です。</li>
+      <li>作業ログ：<a href="https://github.com/oss-gate/workshop/issues">oss-gate/workshop</a>のタイトルに「Work log」を含むissueの数です。</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+(function() {
+  var data = [
+    [2016, 9, 191], [2017, 21, 322], [2018, 19, 197], [2019, 19, 212],
+    [2020, 6, 47], [2021, 8, 60], [2022, 8, 51], [2023, 9, 79],
+    [2024, 10, 91], [2025, 8, 52], [2026, 6, 60]
+  ];
+  var labeled = [2016, 2017, 2020, 2026];
+
+  var tbody = document.querySelector("#anniversary-table tbody");
+  data.forEach(function(d) {
+    var tr = document.createElement("tr");
+    tr.innerHTML = "<td>" + d[0] + (d[0] === 2026 ? "（9月まで）" : "") + "</td>" +
+      "<td>" + d[1] + "</td><td>" + d[2] + "</td>";
+    tbody.appendChild(tr);
+  });
+
+  var box = document.getElementById("anniversary-chart");
+  var W = 800, H = 300, m = {t: 24, r: 8, b: 28, l: 40};
+  var iw = W - m.l - m.r, ih = H - m.t - m.b, max = 350;
+  var y = function(v) { return m.t + ih - (v / max) * ih; };
+  var band = iw / data.length, bw = Math.min(40, band * 0.6);
+  var s = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" ' +
+    'aria-label="年ごとのワークショップ延べ参加者数の棒グラフ。2017年が322人で最多。">';
+  [0, 100, 200, 300].forEach(function(t) {
+    s += '<line class="grid" x1="' + m.l + '" x2="' + (W - m.r) + '" y1="' + y(t) + '" y2="' + y(t) + '"/>';
+    s += '<text x="' + (m.l - 8) + '" y="' + (y(t) + 4) + '" text-anchor="end">' + t + '</text>';
+  });
+  var x2020 = m.l + band * 4;
+  s += '<line class="marker" x1="' + x2020 + '" x2="' + x2020 + '" y1="' + (m.t - 8) + '" y2="' + (m.t + ih) + '"/>';
+  s += '<text x="' + (x2020 + 6) + '" y="' + m.t + '">オンライン中心へ</text>';
+  data.forEach(function(d, i) {
+    var cx = m.l + band * i + band / 2, top = y(d[2]), r = 4, x0 = cx - bw / 2;
+    var path = "M" + x0 + "," + (m.t + ih) + "V" + (top + r) +
+      "Q" + x0 + "," + top + " " + (x0 + r) + "," + top +
+      "H" + (x0 + bw - r) + "Q" + (x0 + bw) + "," + top + " " + (x0 + bw) + "," + (top + r) +
+      "V" + (m.t + ih) + "Z";
+    s += '<g data-i="' + i + '"><rect class="hit" x="' + (m.l + band * i) + '" y="' + m.t +
+      '" width="' + band + '" height="' + ih + '"/>';
+    s += '<path class="bar' + (d[0] === 2026 ? ' partial' : '') + '" d="' + path + '"/></g>';
+    if (labeled.indexOf(d[0]) !== -1) {
+      s += '<text class="value" x="' + cx + '" y="' + (top - 6) + '" text-anchor="middle">' + d[2] + '</text>';
+    }
+    s += '<text x="' + cx + '" y="' + (H - 8) + '" text-anchor="middle">' + d[0] + '</text>';
+  });
+  s += '</svg>';
+  box.innerHTML = s;
+
+  var tip = document.createElement("div");
+  tip.className = "anniversary-tip";
+  tip.hidden = true;
+  box.appendChild(tip);
+  Array.prototype.forEach.call(box.querySelectorAll("g[data-i]"), function(g) {
+    var d = data[Number(g.getAttribute("data-i"))];
+    g.addEventListener("pointerenter", function() {
+      g.classList.add("on");
+      var bar = g.querySelector(".bar").getBoundingClientRect();
+      var b = box.getBoundingClientRect();
+      tip.innerHTML = "<strong>" + d[0] + "年" + (d[0] === 2026 ? "（9月まで）" : "") +
+        "</strong><br>延べ" + d[2] + "人・" + d[1] + "回開催";
+      var left = bar.left - b.left + bar.width / 2;
+      tip.style.left = Math.min(Math.max(left, 70), b.width - 70) + "px";
+      tip.style.top = (bar.top - b.top - 8) + "px";
+      tip.hidden = false;
+    });
+    g.addEventListener("pointerleave", function() {
+      g.classList.remove("on");
+      tip.hidden = true;
+    });
+  });
+})();
+</script>
